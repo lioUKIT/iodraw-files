@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NmYJzHe4VN117mdAoCBZ-7" value="Studies screened by title and abstract (N=281)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="480" height="50" as="geometry" />
+          <mxGeometry x="200" y="400" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aT5XaCw6NmE8kK_nT88s-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NmYJzHe4VN117mdAoCBZ-9" target="NmYJzHe4VN117mdAoCBZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
