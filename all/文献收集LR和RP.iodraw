@@ -49,7 +49,7 @@
         <mxCell id="aT5XaCw6NmE8kK_nT88s-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NmYJzHe4VN117mdAoCBZ-9" target="aT5XaCw6NmE8kK_nT88s-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NmYJzHe4VN117mdAoCBZ-9" value="Full texts of studies reviewed for eligibility (N=50)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="NmYJzHe4VN117mdAoCBZ-9" value="Full texts of studies reviewed for eligibility (N=38)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="200" y="540" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aT5XaCw6NmE8kK_nT88s-14" value="Final studies included (N=38)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
