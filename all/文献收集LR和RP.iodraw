@@ -61,7 +61,7 @@
         <mxCell id="NmYJzHe4VN117mdAoCBZ-11" value="Articles excluded based on eligibility &lt;br&gt;(editorial material, early access, proceedings paper, essay reviews).&lt;br&gt;(N=79)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="730" y="-30" width="470" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NmYJzHe4VN117mdAoCBZ-12" value="&lt;b&gt;Studies excluded (N=92)&lt;br&gt;&lt;/b&gt;&lt;span&gt;Not related to big data analysis and consumer behavior (N=92)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="NmYJzHe4VN117mdAoCBZ-12" value="&lt;b&gt;Studies excluded (N=70)&lt;br&gt;&lt;/b&gt;Not related to big data or machine learning technique with food consumer behavior&lt;span&gt;&amp;nbsp;(N=70)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="370" width="470" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NmYJzHe4VN117mdAoCBZ-13" value="&lt;b&gt;Studies excluded (N=12)&lt;br&gt;&lt;/b&gt;&lt;span&gt;Not related to big data or machine learning technique with food consumer behavior (N=12)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
