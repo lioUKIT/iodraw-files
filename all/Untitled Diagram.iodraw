@@ -50,7 +50,7 @@
           <mxGeometry x="290" y="85" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wB8npg_Ow1BxAfSF4ML5-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1011j0lbv5k1u.cloudfront.net/assets/store-80181/80181-logo-1525444051.jpg;" vertex="1" parent="phase1-container">
-          <mxGeometry x="180" y="100" width="450" height="339.71" as="geometry" />
+          <mxGeometry x="180" y="370" width="92.34" height="69.71" as="geometry" />
         </mxCell>
         <mxCell id="arrow-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;strokeWidth=2;" edge="1" parent="1" source="phase2-container" target="phase3-container">
           <mxGeometry relative="1" as="geometry" />
