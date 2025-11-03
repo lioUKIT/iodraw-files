@@ -26,7 +26,7 @@
           <mxGeometry x="170" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wB8npg_Ow1BxAfSF4ML5-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://loghi-famosi.com/wp-content/uploads/2022/04/Logo-della-JD.COM_-650x366.png;" vertex="1" parent="sub-lane-1-sources">
-          <mxGeometry x="30" y="30" width="80" height="45.05" as="geometry" />
+          <mxGeometry x="30" y="30" width="71.12" height="40.05" as="geometry" />
         </mxCell>
         <mxCell id="sub-lane-2-datapoints" value="Data Points (Corpus)" style="shape=swimlane;fontStyle=1;startSize=20;horizontal=1;fillColor=#E8F0F7;strokeColor=#8FA6BC;align=left;fontSize=12;" vertex="1" parent="phase1-container">
           <mxGeometry x="350" y="50" width="670" height="130" as="geometry" />
