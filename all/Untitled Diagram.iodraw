@@ -7,7 +7,7 @@
         <mxCell id="arrow-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;strokeWidth=2;" edge="1" parent="1" source="phase1-container" target="phase2-container">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="phase1-container" value="&lt;b&gt;Phase 1: Data Acquisition&lt;/b&gt;" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="phase1-container" value="Phase 1: Data Acquisition" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="1050" height="200" as="geometry" />
         </mxCell>
         <mxCell id="sub-lane-1-sources" value="Sources" style="shape=swimlane;fontStyle=1;startSize=20;horizontal=1;fillColor=#E8F0F7;strokeColor=#8FA6BC;align=left;fontSize=12;" vertex="1" parent="phase1-container">
