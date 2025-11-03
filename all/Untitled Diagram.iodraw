@@ -26,7 +26,7 @@
           <mxGeometry x="181.75" y="30" width="52.35" height="39.52" as="geometry" />
         </mxCell>
         <mxCell id="sub-lane-2-datapoints" value="Data Points (Corpus)" style="shape=swimlane;fontStyle=1;startSize=20;horizontal=1;fillColor=#E8F0F7;strokeColor=#8FA6BC;align=left;fontSize=12;" vertex="1" parent="phase1-container">
-          <mxGeometry x="350" y="50" width="670" height="150" as="geometry" />
+          <mxGeometry x="350" y="50" width="670" height="130" as="geometry" />
         </mxCell>
         <mxCell id="review-content-box" value="Review Content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=12;" vertex="1" parent="sub-lane-2-datapoints">
           <mxGeometry x="10" y="40" width="110" height="40" as="geometry" />
