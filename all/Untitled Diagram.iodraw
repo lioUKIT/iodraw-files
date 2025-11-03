@@ -52,7 +52,7 @@
         <mxCell id="phase2-container" value="&lt;b&gt;Phase 2: Data Preprocessing&lt;/b&gt;" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="1050" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="translation-box" value="Translation (e.g., to English)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=12;" vertex="1" parent="phase2-container">
+        <mxCell id="translation-box" value="Translation (English)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=12;" vertex="1" parent="phase2-container">
           <mxGeometry x="110" y="70" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="deduplication-box" value="Deduplication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=12;" vertex="1" parent="phase2-container">
