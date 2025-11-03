@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="absa-to-aspect4-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;" edge="1" parent="phase4-container" target="use-occasion-aspect">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="131" as="sourcePoint" />
+            <mxPoint x="710" y="130" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="860" y="130" />
             </Array>
