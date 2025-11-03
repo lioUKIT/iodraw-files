@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phase1-container" value="Phase 1: Data Acquisition" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="1050" height="326.49" as="geometry" />
+          <mxGeometry x="60" y="40" width="1050" height="439.71" as="geometry" />
         </mxCell>
         <mxCell id="sub-lane-1-sources" value="Sources" style="shape=swimlane;fontStyle=1;startSize=20;horizontal=1;fillColor=#E8F0F7;strokeColor=#8FA6BC;align=left;fontSize=12;" vertex="1" parent="phase1-container">
           <mxGeometry x="30" y="50" width="300" height="130" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="data-icon-placeholder" value="Placeholder: Database Icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;strokeColor=#808080;fontSize=10;fontColor=#4d4d4d;" vertex="1" parent="sub-lane-2-datapoints">
           <mxGeometry x="290" y="85" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wB8npg_Ow1BxAfSF4ML5-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1011j0lbv5k1u.cloudfront.net/assets/store-80181/80181-logo-1525444051.jpg;" vertex="1" parent="phase1-container">
+          <mxGeometry x="180" y="100" width="450" height="339.71" as="geometry" />
         </mxCell>
         <mxCell id="arrow-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;strokeWidth=2;" edge="1" parent="1" source="phase2-container" target="phase3-container">
           <mxGeometry relative="1" as="geometry" />
@@ -140,9 +143,6 @@
         </mxCell>
         <mxCell id="price-icon-placeholder" value="Placeholder: Graph/Calculator Icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;strokeColor=#808080;fontSize=10;fontColor=#4d4d4d;" vertex="1" parent="phase5-container">
           <mxGeometry x="475" y="25" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wB8npg_Ow1BxAfSF4ML5-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1011j0lbv5k1u.cloudfront.net/assets/store-80181/80181-logo-1525444051.jpg;" vertex="1" parent="1">
-          <mxGeometry y="388" width="121.87" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
