@@ -141,6 +141,9 @@
         <mxCell id="price-icon-placeholder" value="Placeholder: Graph/Calculator Icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;strokeColor=#808080;fontSize=10;fontColor=#4d4d4d;" vertex="1" parent="phase5-container">
           <mxGeometry x="475" y="25" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wB8npg_Ow1BxAfSF4ML5-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1011j0lbv5k1u.cloudfront.net/assets/store-80181/80181-logo-1525444051.jpg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="400" height="302" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
