@@ -19,12 +19,6 @@
         <mxCell id="amazon-source-box" value="Amazon (Italy)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=12;" vertex="1" parent="sub-lane-1-sources">
           <mxGeometry x="150" y="70" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jd-logo-placeholder" value="Placeholder: JD Logo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;strokeColor=#808080;fontSize=10;fontColor=#4d4d4d;" vertex="1" parent="sub-lane-1-sources">
-          <mxGeometry x="30" y="30" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wB8npg_Ow1BxAfSF4ML5-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://loghi-famosi.com/wp-content/uploads/2022/04/Logo-della-JD.COM_-650x366.png;" vertex="1" parent="sub-lane-1-sources">
-          <mxGeometry x="30" y="19.32" width="90" height="50.68" as="geometry" />
-        </mxCell>
         <mxCell id="sub-lane-2-datapoints" value="Data Points (Corpus)" style="shape=swimlane;fontStyle=1;startSize=20;horizontal=1;fillColor=#E8F0F7;strokeColor=#8FA6BC;align=left;fontSize=12;" vertex="1" parent="phase1-container">
           <mxGeometry x="350" y="50" width="670" height="130" as="geometry" />
         </mxCell>
@@ -140,6 +134,9 @@
         </mxCell>
         <mxCell id="wB8npg_Ow1BxAfSF4ML5-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1011j0lbv5k1u.cloudfront.net/assets/store-80181/80181-logo-1525444051.jpg;" vertex="1" parent="1">
           <mxGeometry x="277.66" y="-120" width="92.34" height="69.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wB8npg_Ow1BxAfSF4ML5-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://loghi-famosi.com/wp-content/uploads/2022/04/Logo-della-JD.COM_-650x366.png;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-110" width="90" height="50.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
