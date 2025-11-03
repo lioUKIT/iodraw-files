@@ -4,6 +4,108 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="1" source="Ld_mP2vJtJg_hEewH5Uq-1" target="Ld_mP2vJtJg_hEewH5Uq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-1" value="Phase 1: Data Acquisition" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#ffffff;strokeColor=#6c92b2;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="1050" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-6" value="JD (China)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-7" value="Amazon (Italy)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-8" value="Review Content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="300" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-9" value="Star Rating" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-10" value="Time" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="560" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-11" value="Product Attributes (Brand, Type, Origin)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="690" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-12" value="Price" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-1">
+          <mxGeometry x="860" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="1" source="Ld_mP2vJtJg_hEewH5Uq-2" target="Ld_mP2vJtJg_hEewH5Uq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-2" value="Phase 2: Data Preprocessing" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#ffffff;strokeColor=#6c92b2;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="1050" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-16" value="Translation (e.g., to English)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-2">
+          <mxGeometry x="110" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-17" value="Deduplication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-2">
+          <mxGeometry x="415" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-18" value="Invalidation (Noise Reduction)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-2">
+          <mxGeometry x="720" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="1" source="Ld_mP2vJtJg_hEewH5Uq-14" target="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-14" value="Phase 3: Thematic Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#ffffff;strokeColor=#6c92b2;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="1050" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-20" value="Word Frequency (N-grams)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-14">
+          <mxGeometry x="248" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-21" value="Topic Modeling (e.g., LDA/BERTopic)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-14">
+          <mxGeometry x="583" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="1" source="Ld_mP2vJtJg_hEewH5Uq-19" target="Ld_mP2vJtJg_hEewH5Uq-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-19" value="Phase 4: Sentiment Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#ffffff;strokeColor=#6c92b2;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="1050" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-22" value="Overall Sentiment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="140" y="130" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-23" value="Aspect-Based Sentiment Analysis (ABSA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="500" y="50" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-24" value="Price/Value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-25" value="Packaging" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-26" value="Taste/Flavor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="670" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-27" value="Use/Occasion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-19">
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="Ld_mP2vJtJg_hEewH5Uq-19" source="Ld_mP2vJtJg_hEewH5Uq-23" target="Ld_mP2vJtJg_hEewH5Uq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="Ld_mP2vJtJg_hEewH5Uq-19" source="Ld_mP2vJtJg_hEewH5Uq-23" target="Ld_mP2vJtJg_hEewH5Uq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="Ld_mP2vJtJg_hEewH5Uq-19" source="Ld_mP2vJtJg_hEewH5Uq-23" target="Ld_mP2vJtJg_hEewH5Uq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;" edge="1" parent="Ld_mP2vJtJg_hEewH5Uq-19" source="Ld_mP2vJtJg_hEewH5Uq-23" target="Ld_mP2vJtJg_hEewH5Uq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-39" value="Phase 5: Price &amp; Value Perception Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#ffffff;strokeColor=#6c92b2;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="950" width="1050" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-40" value="Price vs. Rating" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-39">
+          <mxGeometry x="110" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-41" value="Perceived Value Analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-39">
+          <mxGeometry x="415" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld_mP2vJtJg_hEewH5Uq-42" value="Price Sensitivity Comparison" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdfefe;strokeColor=#b0b0b0;" vertex="1" parent="Ld_mP2vJtJg_hEewH5Uq-39">
+          <mxGeometry x="720" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
