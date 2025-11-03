@@ -132,11 +132,9 @@
         <mxCell id="price-icon-placeholder" value="Placeholder: Graph/Calculator Icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e0e0e0;strokeColor=#808080;fontSize=10;fontColor=#4d4d4d;" vertex="1" parent="phase5-container">
           <mxGeometry x="475" y="25" width="100" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="https://th.bing.com/th/id/R.8e130498abf4685d15ecb977869a5a39?rik=%2f%2bLRdQM48y8y0A&amp;riu=http%3a%2f%2fwww.xiue.cc%2fwp-content%2fuploads%2f2017%2f09%2fjd.jpg&amp;ehk=hUzDTV9xjw%2flaGD5eZcKGl%2fN7UkzBSHRjo73I%2bMeVvo%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" link="https://th.bing.com/th/id/R.8e130498abf4685d15ecb977869a5a39?rik=%2f%2bLRdQM48y8y0A&amp;riu=http%3a%2f%2fwww.xiue.cc%2fwp-content%2fuploads%2f2017%2f09%2fjd.jpg&amp;ehk=hUzDTV9xjw%2flaGD5eZcKGl%2fN7UkzBSHRjo73I%2bMeVvo%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" id="wB8npg_Ow1BxAfSF4ML5-44">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="30" y="160" width="560" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="wB8npg_Ow1BxAfSF4ML5-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yun-campus-res.oss-cn-shenzhen.aliyuncs.com/company/1522399334-6201.png;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="904" height="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
