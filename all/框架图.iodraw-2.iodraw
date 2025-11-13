@@ -91,8 +91,8 @@
         <mxCell id="phase4-container" value="Phase 4: Sentiment Analysis Results (Native Language Models)" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="60" y="690" width="1050" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="overall-sentiment-box" value="Overall Sentiment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
-          <mxGeometry x="140" y="110" width="220" height="40" as="geometry" />
+        <mxCell id="overall-sentiment-box" value="Chinese Model/HuggingFace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
+          <mxGeometry x="140" y="110" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="phase5-container" value="Phase 5: Price &amp; Value Perception Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="60" y="980" width="1050" height="150" as="geometry" />
