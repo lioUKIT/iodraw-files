@@ -88,14 +88,11 @@
         <mxCell id="arrow-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;strokeWidth=2;fontSize=18;" parent="1" source="phase4-container" target="phase5-container" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="phase4-container" value="Phase 4: Sentiment Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="phase4-container" value="Phase 4: Sentiment Analysis Results (Native Language Models)" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="60" y="690" width="1050" height="240" as="geometry" />
         </mxCell>
         <mxCell id="overall-sentiment-box" value="Overall Sentiment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="140" y="110" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="absa-box" value="Aspect-Based Sentiment Analysis (ABSA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
-          <mxGeometry x="500" y="50" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="price-value-aspect" value="Price/Value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="410" y="170" width="120" height="40" as="geometry" />
@@ -109,14 +106,20 @@
         <mxCell id="use-occasion-aspect" value="Use/Occasion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="800" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="absa-to-aspect1-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" source="absa-box" target="price-value-aspect" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="absa-to-aspect1-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" target="price-value-aspect" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="absa-to-aspect2-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" source="absa-box" target="packaging-aspect" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="absa-to-aspect2-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" target="packaging-aspect" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="absa-to-aspect3-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" source="absa-box" target="taste-flavor-aspect" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="absa-to-aspect3-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" target="taste-flavor-aspect" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="absa-to-aspect4-arrow" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#808080;fontSize=18;" parent="phase4-container" target="use-occasion-aspect" edge="1">
           <mxGeometry relative="1" as="geometry">
