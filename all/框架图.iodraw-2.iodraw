@@ -94,7 +94,7 @@
         <mxCell id="overall-sentiment-box" value="Chinese Model/HuggingFace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="140" y="110" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uDoKjbIh9C3i21G8rcTA-3" value="Chinese Model/HuggingFace" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" vertex="1" parent="phase4-container">
+        <mxCell id="uDoKjbIh9C3i21G8rcTA-3" value="Italian Model/UmBERTo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" vertex="1" parent="phase4-container">
           <mxGeometry x="720" y="110" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="phase5-container" value="Phase 5: Price &amp; Value Perception Analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
