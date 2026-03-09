@@ -26,16 +26,16 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="400" width="200" height="200" as="geometry" />
+          <mxGeometry x="627" y="400" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br style=&quot;font-size: 16px;&quot;&gt;(Logistics, Authenticity)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Emotional / Aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;(Gift, Social Calue)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-79">
           <mxGeometry y="60" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 4: Quantitative Manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
+          <mxGeometry x="627" y="140" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br style=&quot;font-size: 16px;&quot;&gt;Distributed VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
-          <mxGeometry x="10" y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="320" y="60" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-83" value="Empirical Outcomes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="657" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="420" width="60" height="100" as="geometry" />
