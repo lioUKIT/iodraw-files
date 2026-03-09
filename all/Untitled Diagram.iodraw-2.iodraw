@@ -31,6 +31,9 @@
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br&gt;Distributed VS&lt;br&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
+          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 16px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="382.5" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br&gt;Distributed VS&lt;br&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
