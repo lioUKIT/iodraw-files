@@ -28,6 +28,9 @@
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="400" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(Logistics, Authenticity)&lt;br&gt;VS&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(Gift, Social Calue)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-79">
+          <mxGeometry x="10" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 4: Quantitative Manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
         </mxCell>
@@ -54,9 +57,6 @@
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 16px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="382.5" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
