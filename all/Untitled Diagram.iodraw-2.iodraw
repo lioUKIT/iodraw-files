@@ -25,16 +25,16 @@
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-78">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(Logistics, Authenticity)&lt;br&gt;VS&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(Gift, Social Calue)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-79">
-          <mxGeometry x="10" y="95" width="190" height="105" as="geometry" />
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br style=&quot;font-size: 16px;&quot;&gt;(Logistics, Authenticity)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Emotional / Aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;(Gift, Social Calue)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-79">
+          <mxGeometry y="60" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 4: Quantitative Manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br&gt;Distributed VS&lt;br&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br style=&quot;font-size: 16px;&quot;&gt;Distributed VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
