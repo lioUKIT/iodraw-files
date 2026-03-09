@@ -107,7 +107,7 @@
           <mxGeometry x="780" y="70" width="257" height="70" as="geometry" />
         </mxCell>
         <mxCell id="phase5-container" value="Phase 5: Comparison Between China and Italy" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="60" y="800" width="1070" height="152" as="geometry" />
+          <mxGeometry x="60" y="800" width="1050" height="152" as="geometry" />
         </mxCell>
         <mxCell id="price-vs-rating-box" value="Positive / Neutral / Negative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase5-container" vertex="1">
           <mxGeometry x="110" y="40" width="280" height="40" as="geometry" />
