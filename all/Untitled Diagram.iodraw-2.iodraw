@@ -10,6 +10,9 @@
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 16px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
           <mxGeometry y="70" width="100" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 16px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 16px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
+          <mxGeometry x="100" y="70" width="100" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
@@ -48,9 +51,6 @@
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 16px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="382.5" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 16px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 16px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="460" width="100" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
