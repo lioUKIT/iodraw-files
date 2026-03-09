@@ -32,7 +32,7 @@
           <mxGeometry y="60" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 4: Quantitative Manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="140" width="200" height="200" as="geometry" />
+          <mxGeometry x="620" y="150" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br style=&quot;font-size: 16px;&quot;&gt;Distributed VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Evenly Distributed Ratings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="510" y="285" width="110" height="245" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 13px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="382.5" width="70" height="47.5" as="geometry" />
+          <mxGeometry x="530" y="383.75" width="70" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
