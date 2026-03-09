@@ -26,7 +26,7 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="410" width="200" height="200" as="geometry" />
+          <mxGeometry x="610" y="400" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="250" y="230" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="350" width="40" height="60" as="geometry" />
+          <mxGeometry x="520" y="350" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
