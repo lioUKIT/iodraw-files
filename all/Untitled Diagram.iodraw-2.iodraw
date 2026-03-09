@@ -4,52 +4,52 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-76" value="Box 3: Consumer Motivation&lt;br&gt;(SDT)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-76" value="Box 3: Consumer Motivation&lt;br style=&quot;font-size: 14px;&quot;&gt;(SDT)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="270" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br&gt;Motivation&lt;br&gt;(Driven by external&amp;nbsp;&lt;br&gt;rewards and&lt;br&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 14px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 14px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 14px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
           <mxGeometry y="40" width="100" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br&gt;Motivation&lt;br&gt;(Driven by&lt;br&gt;self-expression&lt;br&gt;and aesthetic&lt;br&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 14px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 14px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 14px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 14px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 14px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
           <mxGeometry x="100" y="40" width="100" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br&gt;(JD beans)&lt;br&gt;VS&lt;br&gt;Organic Environment&lt;br&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-77">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br style=&quot;font-size: 14px;&quot;&gt;(JD beans)&lt;br style=&quot;font-size: 14px;&quot;&gt;VS&lt;br style=&quot;font-size: 14px;&quot;&gt;Organic Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-77">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 14px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="150" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div&gt;Avoidance and Pragmatism&lt;br&gt;(China)&lt;/div&gt;&lt;div&gt;VS&lt;/div&gt;&lt;div&gt;Mediterranean Hedonism&lt;br&gt;and Sociality&lt;br&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-78">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 14px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 14px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 14px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-78">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="140" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-82" value="The Theoretical Core" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-82" value="The Theoretical Core" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-83" value="Empirical Outcomes" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-83" value="Empirical Outcomes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="420" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=54;direction=west;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=54;direction=west;flipH=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="230" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="285" width="100" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 14px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="382.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
