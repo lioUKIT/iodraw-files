@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-77">
-          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="60" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="150" width="200" height="200" as="geometry" />
