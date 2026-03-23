@@ -25,8 +25,8 @@
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-9" value="Digital Behavioral Outcomes&lt;br&gt;(The Consequences)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="180" width="270" height="120" as="geometry" />
+        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-10" value="Topological Structure" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="205" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
