@@ -11,7 +11,7 @@
           <mxGeometry x="570" width="241" height="119" as="geometry" />
         </mxCell>
         <mxCell id="sNXBgWrCTaq7Ox4FmM2A-3" value="Phase 2: Data Cleaning &amp;amp; Noise Reduction&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &amp;gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="196" y="359" width="244" height="101" as="geometry" />
+          <mxGeometry x="344" y="170" width="244" height="101" as="geometry" />
         </mxCell>
         <mxCell id="sNXBgWrCTaq7Ox4FmM2A-4" value="Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &amp;gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="510" width="248" height="137" as="geometry" />
