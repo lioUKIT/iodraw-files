@@ -26,7 +26,7 @@
           <mxGeometry x="290" y="448.5" width="250" height="111.5" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="35.5" y="431.5" width="219" height="101" as="geometry" />
+          <mxGeometry x="35" y="450" width="219" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="564.5" y="450" width="219" height="110" as="geometry" />
@@ -110,6 +110,9 @@
             <mxPoint x="620" y="650" as="sourcePoint" />
             <mxPoint x="670" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.742;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-10" target="zlI-Av7pnyiapbur2dU0-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
