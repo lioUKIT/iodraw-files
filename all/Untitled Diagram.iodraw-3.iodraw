@@ -11,10 +11,10 @@
           <mxGeometry x="550" y="10" width="241" height="119" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning &amp;amp; Noise Reduction&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &amp;gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="19" width="244" height="101" as="geometry" />
+          <mxGeometry x="291.5" y="10" width="244" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-4" value="Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &amp;gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="340" width="248" height="137" as="geometry" />
+          <mxGeometry x="290" y="150" width="248" height="137" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &amp;gt; 3.5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="527" width="246" height="101" as="geometry" />
