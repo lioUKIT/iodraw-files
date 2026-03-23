@@ -20,7 +20,7 @@
           <mxGeometry x="291" y="310" width="246" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-6" value="The 6 dimensions briefly:&#xa;• High-frequency users (w=2)&#xa;• Repetitive templates (w=1.5)&#xa;• Generic phrase stuffing (w=1)&#xa;• Structured long templates (w=1)&#xa;• Extremely short 5-star (w=0.5)&#xa;• Concentrated burst periods (w=0.5)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="70" y="678" width="212" height="260" as="geometry" />
+          <mxGeometry x="564.5" y="190" width="212" height="260" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&amp;gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="331" y="766" width="257" height="84" as="geometry" />
