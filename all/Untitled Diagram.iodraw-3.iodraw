@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zlI-Av7pnyiapbur2dU0-1" value="Phase 1: Data Collection&#xa;&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch A (China)&#xa;Platform: JD.com | Keyword: “葡萄酒”&#xa;Scope: 96 Products | Yield: 43,353 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-1" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch A (China)&#xa;Platform: JD.com | Keyword: “葡萄酒”&#xa;Scope: 96 Products | Yield: 43,353 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="270" height="119" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
