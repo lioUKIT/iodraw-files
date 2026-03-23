@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="270" height="119" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="550" y="10" width="241" height="119" as="geometry" />
+          <mxGeometry x="550" y="10" width="270" height="119" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning &amp;amp; Noise Reduction&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &amp;gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="291.5" y="10" width="244" height="120" as="geometry" />
