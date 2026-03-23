@@ -46,20 +46,6 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-14" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="1273" width="260" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-1" target="zlI-Av7pnyiapbur2dU0-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="169" y="164" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-2" target="zlI-Av7pnyiapbur2dU0-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="467" y="164" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-3" target="zlI-Av7pnyiapbur2dU0-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
