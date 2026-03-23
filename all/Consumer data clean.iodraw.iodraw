@@ -17,7 +17,7 @@
           <mxGeometry x="14.5" y="170" width="248" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &gt;3.5" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="291" y="290" width="246" height="140" as="geometry" />
+          <mxGeometry x="294" y="170" width="246" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-6" value="The 6 dimensions briefly:&#xa;• High-frequency users (w=2)&#xa;• Repetitive templates (w=1.5)&#xa;• Generic phrase stuffing (w=1)&#xa;• Structured long templates (w=1)&#xa;• Extremely short 5-star (w=0.5)&#xa;• Concentrated burst periods (w=0.5)" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="571.5" y="180" width="238.5" height="231" as="geometry" />
