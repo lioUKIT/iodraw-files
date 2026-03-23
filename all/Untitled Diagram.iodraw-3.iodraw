@@ -13,6 +13,9 @@
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-2" value="Marco Context&lt;br&gt;(The Antecedents)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
