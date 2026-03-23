@@ -35,10 +35,10 @@
           <mxGeometry x="30" y="630" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="492" y="1139" width="245" height="84" as="geometry" />
+          <mxGeometry x="551.5" y="620" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1273" width="260" height="101" as="geometry" />
+          <mxGeometry x="14.5" y="760" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="1273" width="260" height="101" as="geometry" />
