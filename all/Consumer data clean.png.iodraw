@@ -35,10 +35,10 @@
           <mxGeometry x="20" y="491.5" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="551.5" y="491.5" width="245" height="100" as="geometry" />
+          <mxGeometry x="490" y="491.5" width="306.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="14.5" y="611.5" width="255.5" height="101" as="geometry" />
+          <mxGeometry x="17.25" y="620" width="255.5" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="544" y="611.5" width="260" height="101" as="geometry" />
