@@ -29,7 +29,7 @@
           <mxGeometry x="35.5" y="431.5" width="219" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="564.5" y="453.75" width="219" height="101" as="geometry" />
+          <mxGeometry x="564.5" y="450" width="219" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="30" y="630" width="229" height="84" as="geometry" />
