@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="350" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-5" value="&lt;b&gt;Psychological Mechanism&lt;/b&gt;&lt;br&gt;(The Moderator)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="294" y="80" width="166" height="50" as="geometry" />
+          <mxGeometry x="294" y="80" width="186" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" edge="1" parent="1" source="aR5Xv7NjL3oPvNjWa3Hs-7" target="aR5Xv7NjL3oPvNjWa3Hs-10">
           <mxGeometry relative="1" as="geometry" />
