@@ -23,10 +23,10 @@
           <mxGeometry x="564.5" y="190" width="212" height="260" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&amp;gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="440" width="257" height="84" as="geometry" />
+          <mxGeometry x="290" y="440" width="250" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="219" height="101" as="geometry" />
+          <mxGeometry x="35" y="450" width="219" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="527" y="590" width="219" height="101" as="geometry" />
