@@ -29,10 +29,10 @@
           <mxGeometry x="35" y="450" width="219" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="527" y="590" width="219" height="101" as="geometry" />
+          <mxGeometry x="564.5" y="460" width="219" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1139" width="229" height="84" as="geometry" />
+          <mxGeometry x="30" y="630" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="492" y="1139" width="245" height="84" as="geometry" />
