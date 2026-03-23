@@ -28,8 +28,8 @@
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-10" value="&lt;b&gt;Topological Structure&lt;/b&gt;&lt;br&gt;Homogeneous Clustering&lt;br&gt;VS&lt;br&gt;Heterogeneous Scattering" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="205" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.4,0],[0.75,0],[1,0.25],[1,0.75],[0.53,1],[0.53,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="150" height="170" as="geometry" />
+        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.4,0],[0.53,0],[1,0.25],[1,0.75],[0.53,1],[0.53,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="340" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
