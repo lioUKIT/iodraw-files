@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OJHpjzs2VvALHkjmZ3Le-1" value="Marco Context&lt;br&gt;(The Antecedents)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="200" height="60" as="geometry" />
+          <mxGeometry x="20" y="40" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJHpjzs2VvALHkjmZ3Le-2" value="Emerging Market (China)&lt;br&gt;Collectivism and High-Context Culture &lt;br&gt;Pragmatic Digital Ecosystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="160" width="220" height="60" as="geometry" />
+          <mxGeometry x="20" y="160" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
