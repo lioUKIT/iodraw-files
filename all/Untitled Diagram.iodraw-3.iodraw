@@ -25,7 +25,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&amp;gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="250" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="35" y="450" width="219" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="630" width="229" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="551.5" y="620" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
