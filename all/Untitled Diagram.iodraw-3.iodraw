@@ -8,10 +8,10 @@
           <mxGeometry x="13" y="10" width="254" height="119" as="geometry" />
         </mxCell>
         <mxCell id="K6FOoUI3Ku2R6CiMHFNw-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="26" y="286" width="241" height="119" as="geometry" />
+          <mxGeometry x="19.5" y="472" width="241" height="119" as="geometry" />
         </mxCell>
         <mxCell id="K6FOoUI3Ku2R6CiMHFNw-3" value="Phase 2: Data Cleaning &amp;amp; Noise Reduction&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &amp;gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="324" y="210" width="244" height="101" as="geometry" />
+          <mxGeometry x="30" y="240" width="244" height="101" as="geometry" />
         </mxCell>
         <mxCell id="K6FOoUI3Ku2R6CiMHFNw-4" value="Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &amp;gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="618" y="192" width="248" height="137" as="geometry" />
