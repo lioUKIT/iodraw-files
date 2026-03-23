@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sNXBgWrCTaq7Ox4FmM2A-1" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch A (China)&#xa;Platform: JD.com | Keyword: “葡萄酒”&#xa;Scope: 96 Products | Yield: 43,353 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="42" y="190" width="254" height="119" as="geometry" />
+          <mxGeometry x="120" width="254" height="119" as="geometry" />
         </mxCell>
         <mxCell id="sNXBgWrCTaq7Ox4FmM2A-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" width="241" height="119" as="geometry" />
