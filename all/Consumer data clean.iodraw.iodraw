@@ -14,7 +14,7 @@
           <mxGeometry x="300" y="20" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-4" value="Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="290" y="170" width="248" height="100" as="geometry" />
+          <mxGeometry x="14.5" y="170" width="248" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &gt;3.5" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="291" y="290" width="246" height="140" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="14.5" y="700" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="544" y="740" width="260" height="101" as="geometry" />
+          <mxGeometry x="544" y="700" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" source="zlI-Av7pnyiapbur2dU0-3" target="zlI-Av7pnyiapbur2dU0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
