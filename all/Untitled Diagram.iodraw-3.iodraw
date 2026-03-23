@@ -10,6 +10,9 @@
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgba(0, 0, 0, 0); white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;Marco Context&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; caret-color: rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgba(0, 0, 0, 0); white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(The Antecedents)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="20" y="80" width="220" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5Xv7NjL3oPvNjWa3Hs-4" target="aR5Xv7NjL3oPvNjWa3Hs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-4" value="&lt;b&gt;Mature Market (Italy)&lt;/b&gt;&lt;br&gt;Individualism and Hedonic Roots&lt;br&gt;Aesthetic-Driven Digital Ecosystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="220" height="60" as="geometry" />
         </mxCell>
@@ -21,6 +24,9 @@
         </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-7" value="&lt;b&gt;High Involvement&lt;br&gt;&lt;/b&gt;&lt;hr&gt;&quot;The Sensory Hedonist&quot;&lt;br&gt;(Universal across cultures)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5Xv7NjL3oPvNjWa3Hs-8" target="aR5Xv7NjL3oPvNjWa3Hs-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-8" value="&lt;b&gt;Low Involvement&lt;br&gt;&lt;/b&gt;&lt;hr&gt;&quot;The Casual Experimenter&quot;&lt;br&gt;(Highly divergent)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="200" height="110" as="geometry" />
