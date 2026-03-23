@@ -1,0 +1,133 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="_BP2Uyjv96WGUZ17qBrI">
+    <mxGraphModel dx="1429" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-1" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch A (China)&#xa;Platform: JD.com | Keyword: “葡萄酒”&#xa;Scope: 96 Products | Yield: 43,353 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="42" y="190" width="254" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="190" width="241" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-3" value="Phase 2: Data Cleaning &amp;amp; Noise Reduction&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &amp;gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="359" width="244" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-4" value="Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &amp;gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="510" width="248" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &amp;gt; 3.5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="697" width="246" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-6" value="The 6 dimensions briefly:&#xa;• High-frequency users (w=2)&#xa;• Repetitive templates (w=1.5)&#xa;• Generic phrase stuffing (w=1)&#xa;• Structured long templates (w=1)&#xa;• Extremely short 5-star (w=0.5)&#xa;• Concentrated burst periods (w=0.5)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="70" y="848" width="212" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&amp;gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="331" y="936" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1158" width="219" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1158" width="219" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1309" width="229" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it&#xa;Amazon.it: 6,338 Reviews (64.25% Retention)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1309" width="245" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1443" width="260" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1443" width="260" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-14" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;(Insert Training Parameters)&#xa;-&amp;gt;&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1443" width="260" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-1" target="sNXBgWrCTaq7Ox4FmM2A-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-2" target="sNXBgWrCTaq7Ox4FmM2A-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-3" target="sNXBgWrCTaq7Ox4FmM2A-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-4" target="sNXBgWrCTaq7Ox4FmM2A-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-19" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-5" target="sNXBgWrCTaq7Ox4FmM2A-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="176" y="823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-5" target="sNXBgWrCTaq7Ox4FmM2A-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-7" target="sNXBgWrCTaq7Ox4FmM2A-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-7" target="sNXBgWrCTaq7Ox4FmM2A-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="1133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-8" target="sNXBgWrCTaq7Ox4FmM2A-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-9" target="sNXBgWrCTaq7Ox4FmM2A-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-10" target="sNXBgWrCTaq7Ox4FmM2A-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-11" target="sNXBgWrCTaq7Ox4FmM2A-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sNXBgWrCTaq7Ox4FmM2A-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sNXBgWrCTaq7Ox4FmM2A-11" target="sNXBgWrCTaq7Ox4FmM2A-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
