@@ -32,7 +32,7 @@
           <mxGeometry x="535" y="480" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aR5Xv7NjL3oPvNjWa3Hs-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
-          <mxGeometry x="277" y="580" width="200" height="100" as="geometry" />
+          <mxGeometry x="277" y="560" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
