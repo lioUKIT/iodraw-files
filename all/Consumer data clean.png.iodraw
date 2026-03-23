@@ -43,11 +43,6 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="544" y="611.5" width="260" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" source="zlI-Av7pnyiapbur2dU0-3" target="zlI-Av7pnyiapbur2dU0-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontFamily=Times New Roman;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-4" target="zlI-Av7pnyiapbur2dU0-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -109,6 +104,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="561.5" as="sourcePoint" />
             <mxPoint x="670" y="511.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="330" />
+              <mxPoint x="420" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
