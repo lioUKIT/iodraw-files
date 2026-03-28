@@ -10,7 +10,7 @@
         <mxCell id="wE-GXT29TpaClhuNw6uQ-2" value="&lt;div style=&quot;line-height: 190%;&quot;&gt;&lt;b&gt;Digital Retail Ecosystem&lt;/b&gt;&lt;/div&gt;Online Wine Reviews (UGC)&amp;nbsp;&lt;div style=&quot;line-height: 190%;&quot;&gt;Review Star Rating, Sentiment Score,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 190%;&quot;&gt;Review Length&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wE-GXT29TpaClhuNw6uQ-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;Data Crawling, Translation Bias, BERT, Feature Extraction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wE-GXT29TpaClhuNw6uQ-4" value="&lt;div&gt;&lt;b&gt;NLP and Machine Learning&lt;/b&gt;&lt;/div&gt;Data Crawling, BERT,&amp;nbsp;&lt;div&gt;Translation Bias, Feature Extraction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="410" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wE-GXT29TpaClhuNw6uQ-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;Clustering Algorithm, Dimensionality Reduction (UMAP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
