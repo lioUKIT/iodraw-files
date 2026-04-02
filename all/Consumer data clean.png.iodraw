@@ -28,7 +28,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com: Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="341.5" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=16;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="560" y="340" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="590" width="271.38" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="590" width="260" height="101" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontFamily=Times New Roman;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-4" target="zlI-Av7pnyiapbur2dU0-5" edge="1">
