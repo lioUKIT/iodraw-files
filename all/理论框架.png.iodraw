@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="240" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wE-GXT29TpaClhuNw6uQ-4" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;NLP and Machine Learning&lt;/b&gt;&lt;/div&gt;Data Crawling, BERT,&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Feature Extraction&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="270" y="272.5" width="230" height="57.5" as="geometry" />
+          <mxGeometry x="280" y="272.5" width="220" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="wE-GXT29TpaClhuNw6uQ-5" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Consumer Psychological Profiling&lt;/b&gt;&lt;/div&gt;Clustering Algorithm,&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Dimensionality Reduction (UMAP)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="250" height="70" as="geometry" />
