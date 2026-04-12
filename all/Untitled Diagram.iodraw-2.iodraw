@@ -20,7 +20,7 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 4: Qualitative manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="400" width="200" height="200" as="geometry" />
+          <mxGeometry x="620" y="280" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(logistics, authenticity)&lt;br&gt;&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(gift, social value)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="GXSs--aHUrXkBEXnWIvO-79" vertex="1">
           <mxGeometry y="60" width="200" height="100" as="geometry" />
