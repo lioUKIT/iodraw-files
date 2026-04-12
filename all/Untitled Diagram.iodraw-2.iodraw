@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="GXSs--aHUrXkBEXnWIvO-76" value="Box 2: Consumer motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(SDT theory)" style="swimlane;whiteSpace=wrap;html=1;startSize=70;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="285" y="261.25" width="200" height="240" as="geometry" />
+          <mxGeometry x="285" y="150" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 16px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GXSs--aHUrXkBEXnWIvO-76" vertex="1">
           <mxGeometry y="70" width="100" height="170" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="630" y="80" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="485" y="247.5" width="110" height="245" as="geometry" />
+          <mxGeometry x="485" y="160" width="110" height="245" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 13px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fontStyle=1;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="505" y="346.25" width="70" height="47.5" as="geometry" />
