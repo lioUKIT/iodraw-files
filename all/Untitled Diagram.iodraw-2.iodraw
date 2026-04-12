@@ -13,7 +13,7 @@
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 16px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 16px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-76" vertex="1">
           <mxGeometry x="100" y="70" width="100" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=50;fillColor=#f9f7ed;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br style=&quot;font-size: 16px;&quot;&gt;(JD beans)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Organic Environment&lt;br style=&quot;font-size: 16px;&quot;&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-77" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 16px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="150" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-78" vertex="1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GXSs--aHUrXkBEXnWIvO-78" vertex="1">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
