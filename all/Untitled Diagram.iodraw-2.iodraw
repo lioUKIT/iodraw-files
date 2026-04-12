@@ -47,7 +47,7 @@
           <mxGeometry x="505" y="346.25" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="K9u2eMUnO8Lmku5EQeCl-0" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="225" y="256.25" width="125" height="245" as="geometry" />
+          <mxGeometry x="225" y="256.25" width="85" height="143.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
