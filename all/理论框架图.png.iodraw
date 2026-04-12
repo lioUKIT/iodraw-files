@@ -26,7 +26,7 @@
           <mxGeometry y="60" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 3: Quantitative manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="414" y="490" width="200" height="270" as="geometry" />
+          <mxGeometry x="330" y="460" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="J-shaped skewed distribution (extrinsic-dominant context)&lt;div&gt;&lt;br&gt;More evenly distributed ratings (intrinsic-dominant context)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="GXSs--aHUrXkBEXnWIvO-80" vertex="1">
           <mxGeometry y="40" width="200" height="230" as="geometry" />
