@@ -29,10 +29,7 @@
           <mxGeometry x="330" y="460" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="J-shaped skewed distribution (extrinsic-dominant context)&lt;div&gt;&lt;br&gt;More evenly distributed ratings (intrinsic-dominant context)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="GXSs--aHUrXkBEXnWIvO-80" vertex="1">
-          <mxGeometry y="40" width="200" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="K9u2eMUnO8Lmku5EQeCl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GXSs--aHUrXkBEXnWIvO-80" source="Y78wUBpvpV_H4wyUHqS0-10" target="Y78wUBpvpV_H4wyUHqS0-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="40" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#82b366;fillColor=#d5e8d4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="80" width="200" height="40" as="geometry" />
