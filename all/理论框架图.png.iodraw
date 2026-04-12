@@ -22,7 +22,7 @@
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 4: Qualitative manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="340" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(logistics, authenticity)&lt;br&gt;&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(gift, social value, experience)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="GXSs--aHUrXkBEXnWIvO-79" vertex="1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(logistics, authenticity)&lt;br&gt;&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(gift, social value, experience)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="GXSs--aHUrXkBEXnWIvO-79" vertex="1">
           <mxGeometry y="60" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 3: Quantitative manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
