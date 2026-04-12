@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="GXSs--aHUrXkBEXnWIvO-76" value="Box 3: Consumer Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(SDT)" style="swimlane;whiteSpace=wrap;html=1;startSize=70;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="262.5" width="200" height="240" as="geometry" />
+          <mxGeometry x="290" y="160" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 16px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" parent="GXSs--aHUrXkBEXnWIvO-76" vertex="1">
           <mxGeometry y="70" width="100" height="170" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="100" y="70" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 16px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="283.75" width="200" height="200" as="geometry" />
+          <mxGeometry x="20" y="160" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="GXSs--aHUrXkBEXnWIvO-78" vertex="1">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
