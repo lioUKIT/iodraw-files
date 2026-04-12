@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="146" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,7 +19,7 @@
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br style=&quot;font-size: 16px;&quot;&gt;(JD beans)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Organic Environment&lt;br style=&quot;font-size: 16px;&quot;&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-77" vertex="1">
           <mxGeometry y="50" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 16px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 16px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="150" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-78" vertex="1">
