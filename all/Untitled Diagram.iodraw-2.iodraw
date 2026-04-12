@@ -1,40 +1,40 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1048" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="146" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="GXSs--aHUrXkBEXnWIvO-76" value="Box 3: Consumer Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(SDT)" style="swimlane;whiteSpace=wrap;html=1;startSize=70;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="262.5" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 16px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-6" value="Extrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by external&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;rewards and&lt;br style=&quot;font-size: 16px;&quot;&gt;risk reduction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-76" vertex="1">
           <mxGeometry y="70" width="100" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 16px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 16px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-76">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-7" value="Intrinsic&lt;br style=&quot;font-size: 16px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Driven by&lt;br style=&quot;font-size: 16px;&quot;&gt;self-expression&lt;br style=&quot;font-size: 16px;&quot;&gt;and aesthetic&lt;br style=&quot;font-size: 16px;&quot;&gt;needs)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-76" vertex="1">
           <mxGeometry x="100" y="70" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-77" value="Box 2: Platform Mechanisms" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br style=&quot;font-size: 16px;&quot;&gt;(JD beans)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Organic Environment&lt;br style=&quot;font-size: 16px;&quot;&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-77">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-1" value="Extrinsic Reward Systems&lt;br style=&quot;font-size: 16px;&quot;&gt;(JD beans)&lt;br style=&quot;font-size: 16px;&quot;&gt;VS&lt;br style=&quot;font-size: 16px;&quot;&gt;Organic Environment&lt;br style=&quot;font-size: 16px;&quot;&gt;(Amazon.it)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-77" vertex="1">
           <mxGeometry y="50" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-78" value="Box 1: Cultural Context&lt;br style=&quot;font-size: 16px;&quot;&gt;(Hofstede)" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="150" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-78">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-0" value="High Uncertainty&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;Avoidance and Pragmatism&lt;br style=&quot;font-size: 16px;&quot;&gt;(China)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;VS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mediterranean Hedonism&lt;br style=&quot;font-size: 16px;&quot;&gt;and Sociality&lt;br style=&quot;font-size: 16px;&quot;&gt;(Italy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-78" vertex="1">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-79" value="Box 5: Qualitative Manifestation&lt;br style=&quot;font-size: 16px;&quot;&gt;(Semantic Focus)" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=60;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="400" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(Logistics, Authenticity)&lt;br&gt;VS&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(Gift, Social Value)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-79">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-11" value="Functional / Pragmatic&lt;br&gt;(Logistics, Authenticity)&lt;br&gt;VS&lt;br&gt;Emotional / Aesthetic&lt;br&gt;(Gift, Social Value)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-79" vertex="1">
           <mxGeometry y="60" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-80" value="Box 4: Quantitative Manifestation" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;startSize=40;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="150" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br&gt;Distribution&amp;nbsp;&lt;br&gt;VS&lt;br&gt;Evenly Distributed&lt;br&gt;Ratings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="GXSs--aHUrXkBEXnWIvO-80">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-10" value="&quot;J-Shaped&quot; Skewed&lt;br&gt;Distribution&amp;nbsp;&lt;br&gt;VS&lt;br&gt;Evenly Distributed&lt;br&gt;Ratings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="GXSs--aHUrXkBEXnWIvO-80" vertex="1">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GXSs--aHUrXkBEXnWIvO-81" value="The Antecedents" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -46,16 +46,16 @@
         <mxCell id="GXSs--aHUrXkBEXnWIvO-83" value="Empirical Outcomes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="420" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=54;direction=west;flipH=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=54;direction=west;flipH=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="230" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=75.33;notch=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="260" width="110" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 13px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Y78wUBpvpV_H4wyUHqS0-8" value="NLP&lt;br style=&quot;font-size: 13px;&quot;&gt;Methodological Bridge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=13;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="360" width="70" height="47.5" as="geometry" />
         </mxCell>
       </root>
