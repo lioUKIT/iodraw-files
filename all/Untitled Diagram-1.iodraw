@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="aV71a_ZONChgvOrgw4Hz">
-    <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="146" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="gXzenraNkfIPqfRou7qx-14" value="&lt;b&gt;The Expressive Hedonist&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;(High expressiveness + Hedonic focus)&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Experiential and Aesthetic marketing&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Italy / Amazon.it" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gXzenraNkfIPqfRou7qx-15" value="The Restrained Hedonist&lt;br style=&quot;font-size: 17px;&quot;&gt;(Restrained expression + Hedonic focus)&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Subtle premiumization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="gXzenraNkfIPqfRou7qx-15" value="&lt;b&gt;The Restrained Hedonist&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;(Restrained expression + Hedonic focus)&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Subtle premiumization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gXzenraNkfIPqfRou7qx-16" value="&lt;b&gt;The Pragmatic Utilitarian&lt;/b&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;(Restrained expression + Functional focus)&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;Trust-Building and Operational excellence&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;China / JD.com" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
