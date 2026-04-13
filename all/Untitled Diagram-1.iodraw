@@ -1,9 +1,60 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5240" dy="3407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Page-1" id="aV71a_ZONChgvOrgw4Hz">
+    <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gXzenraNkfIPqfRou7qx-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="154" width="633" height="775" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-2" value="&lt;b&gt;The Vocal Utilitarian&lt;/b&gt;&#xa;(High Expressiveness + Functional Focus)&#xa;&#xa;&lt;b&gt;Trait:&lt;/b&gt; High text volume, low emotional authenticity.&#xa;&#xa;Filtering Algorithmic Noise." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gXzenraNkfIPqfRou7qx-1">
+          <mxGeometry x="195" y="46" width="256" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-3" value="&lt;b&gt;The Expressive Hedonist&lt;/b&gt;&#xa;(High Expressiveness + Hedonic Focus)&#xa;&#xa;&lt;b&gt;Trait:&lt;/b&gt; Storytelling, sensory language.&#xa;&#xa;UGC curation &amp;amp; social sharing.&#xa;&#xa;&lt;i&gt;Italy / Amazon.it&lt;/i&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gXzenraNkfIPqfRou7qx-1">
+          <mxGeometry x="44" y="292" width="253" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-4" value="&lt;b&gt;The Pragmatic Utilitarian&lt;/b&gt;&#xa;(Restrained Expression + Functional Focus)&#xa;&#xa;&lt;b&gt;Trait:&lt;/b&gt; Risk-averse, trust-seeking.&#xa;&#xa;Trust-Building &amp;amp; Operational Excellence.&#xa;&#xa;&lt;i&gt;China / JD.com&lt;/i&gt;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gXzenraNkfIPqfRou7qx-1">
+          <mxGeometry x="347" y="301" width="259" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-5" value="&lt;b&gt;The Restrained Hedonist&lt;/b&gt;&#xa;(Restrained Expression + Hedonic Focus)&#xa;&#xa;&lt;b&gt;Trait:&lt;/b&gt; Private enjoyment, low social display.&#xa;&#xa;Subtle Premiumization." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gXzenraNkfIPqfRou7qx-1">
+          <mxGeometry x="206" y="574" width="235" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gXzenraNkfIPqfRou7qx-1" source="gXzenraNkfIPqfRou7qx-2" target="gXzenraNkfIPqfRou7qx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gXzenraNkfIPqfRou7qx-1" source="gXzenraNkfIPqfRou7qx-2" target="gXzenraNkfIPqfRou7qx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="477" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.05;entryY=0;rounded=0;" edge="1" parent="gXzenraNkfIPqfRou7qx-1" source="gXzenraNkfIPqfRou7qx-3" target="gXzenraNkfIPqfRou7qx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=0;rounded=0;" edge="1" parent="gXzenraNkfIPqfRou7qx-1" source="gXzenraNkfIPqfRou7qx-4" target="gXzenraNkfIPqfRou7qx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="477" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-10" value="Figure X. Typological Matrix Of Consumer Review Engagement And Strategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="208" y="20" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="gXzenraNkfIPqfRou7qx-11" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" visible="0" parent="1" source="gXzenraNkfIPqfRou7qx-10" target="gXzenraNkfIPqfRou7qx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
