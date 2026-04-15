@@ -92,7 +92,7 @@
           <mxGeometry x="805" y="80" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="phase4-container" value="Phase 4: Comparison of sentiment scores and distribution" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="60" y="510" width="1050" height="170" as="geometry" />
+          <mxGeometry x="40" y="510" width="1080" height="170" as="geometry" />
         </mxCell>
         <mxCell id="overall-sentiment-box" value="Chinese Model/RoBERTa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="110" y="40" width="280" height="40" as="geometry" />
