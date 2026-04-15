@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phase2-container" value="Phase 2: Data preprocessing" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="60" y="200" width="1050" height="108" as="geometry" />
+          <mxGeometry x="60" y="200" width="1060" height="108" as="geometry" />
         </mxCell>
         <mxCell id="deduplication-box" value="Deduplication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase2-container" vertex="1">
           <mxGeometry x="40" y="38" width="220" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phase3-container" value="Phase 3: Descriptive statistical analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="55" y="340" width="1055" height="140" as="geometry" />
+          <mxGeometry x="55" y="340" width="1065" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uDoKjbIh9C3i21G8rcTA-1" value="Correlation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase3-container" vertex="1">
           <mxGeometry x="145" y="40" width="220" height="40" as="geometry" />
