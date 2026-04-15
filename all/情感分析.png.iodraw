@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phase2-container" value="Phase 2: Data preprocessing" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="65" y="210" width="1050" height="108" as="geometry" />
+          <mxGeometry x="60" y="200" width="1050" height="108" as="geometry" />
         </mxCell>
         <mxCell id="translation-box" value="Translation (English)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase2-container" vertex="1">
           <mxGeometry x="100" y="38" width="220" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phase3-container" value="Phase 3: Descriptive statistical analysis" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="60" y="348" width="1060" height="180" as="geometry" />
+          <mxGeometry x="55" y="380" width="1060" height="180" as="geometry" />
         </mxCell>
         <mxCell id="uDoKjbIh9C3i21G8rcTA-1" value="Correlation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase3-container" vertex="1">
           <mxGeometry x="145" y="40" width="220" height="40" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="795" y="95" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="phase4-container" value="Phase 4: Comparison of sentiment scores and distribution" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="65" y="558" width="1050" height="170" as="geometry" />
+          <mxGeometry x="60" y="590" width="1050" height="170" as="geometry" />
         </mxCell>
         <mxCell id="overall-sentiment-box" value="Chinese Model/RoBERTa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase4-container" vertex="1">
           <mxGeometry x="110" y="40" width="280" height="40" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="447.89" y="90" width="214.22" height="80" as="geometry" />
         </mxCell>
         <mxCell id="phase5-container" value="Phase 5: Comparison of consumer attention across different sentiment categories" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="65" y="768" width="1050" height="190" as="geometry" />
+          <mxGeometry x="60" y="800" width="1050" height="190" as="geometry" />
         </mxCell>
         <mxCell id="price-vs-rating-box" value="Positive / Neutral / Negative" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B0C4DE;fontSize=18;" parent="phase5-container" vertex="1">
           <mxGeometry x="110" y="40" width="280" height="40" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="730" y="140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uDoKjbIh9C3i21G8rcTA-5" value="Phase 6: Robustness test" style="shape=swimlane;fontStyle=1;align=center;verticalAlign=top;startSize=30;fillColor=#F8FAFC;strokeColor=#6B8EAD;rounded=1;fontColor=#1A1A1A;swimlaneFillColor=#DAE8F0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="62" y="988" width="1055" height="200" as="geometry" />
+          <mxGeometry x="57" y="1020" width="1055" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TzlS-2CEuat5ZJ2b2NEE-5" value="To answer RQ3" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="uDoKjbIh9C3i21G8rcTA-5" vertex="1">
           <mxGeometry x="793" y="110" width="257" height="70" as="geometry" />
@@ -156,14 +156,14 @@
         </mxCell>
         <mxCell id="uDoKjbIh9C3i21G8rcTA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#4a4a4a;strokeWidth=2;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="phase4-container" target="phase5-container" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="898" as="sourcePoint" />
-            <mxPoint x="595" y="768" as="targetPoint" />
+            <mxPoint x="570" y="930" as="sourcePoint" />
+            <mxPoint x="590" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="llH1ULHkhXjMkfuaaoY5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="phase5-container" target="uDoKjbIh9C3i21G8rcTA-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="1118" as="sourcePoint" />
-            <mxPoint x="665" y="1068" as="targetPoint" />
+            <mxPoint x="610" y="1150" as="sourcePoint" />
+            <mxPoint x="660" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
