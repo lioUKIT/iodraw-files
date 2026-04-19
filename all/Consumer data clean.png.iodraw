@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering&#xa;UMAP&#xa;TF-IDF" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering&#xa;UMAP&#xa;TF-IDF" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="295" y="590" width="247" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-12" target="D7b_DYPVFalbwSY3mUWO-1">
