@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering&#xa;UMAP&#xa;TF-IDF" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="288.62" y="780" width="271.38" height="101" as="geometry" />
+          <mxGeometry x="293" y="540" width="241.38" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
