@@ -116,6 +116,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="292" y="780" width="271.38" height="101" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
