@@ -4,61 +4,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-1" value="Marco Context&lt;br&gt;&lt;br&gt;Cultural context&lt;br&gt;Market maturity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-1" value="Marco Context&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Cultural context&lt;br style=&quot;font-size: 13px;&quot;&gt;Market maturity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-2" value="Consumer Psychology&lt;br&gt;&lt;br&gt;Motivation&lt;br&gt;Involvement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-2" value="Consumer Psychology&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Motivation&lt;br style=&quot;font-size: 13px;&quot;&gt;Involvement" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-3" value="Behavioral Expressions&lt;br&gt;&lt;br&gt;Emotional expression&lt;br&gt;Review structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-3" value="Behavioral Expressions&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Emotional expression&lt;br style=&quot;font-size: 13px;&quot;&gt;Review structure" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-4" value="Wine Attribute Perception&lt;br&gt;&lt;br&gt;Price&lt;br&gt;Origin&lt;br&gt;Product category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-4" value="Wine Attribute Perception&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Price&lt;br style=&quot;font-size: 13px;&quot;&gt;Origin&lt;br style=&quot;font-size: 13px;&quot;&gt;Product category" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="550" y="40" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CsVSboKwtgPaQZPg8vhi-1" target="CsVSboKwtgPaQZPg8vhi-2">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1" source="CsVSboKwtgPaQZPg8vhi-1" target="CsVSboKwtgPaQZPg8vhi-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="290" as="sourcePoint" />
             <mxPoint x="230" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="99.5" as="sourcePoint" />
             <mxPoint x="370" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="99.5" as="sourcePoint" />
             <mxPoint x="550" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-8" value="Study 1 (Section 2)&lt;br&gt;Systematic literature review&lt;br&gt;&lt;br&gt;Big data in consumer behavior research&lt;div&gt;Summarizes data sources, methods and research questions&lt;br&gt;Identifies gaps in cross-cultural analysis, machine learning and theory integration&lt;br&gt;Builds the theoretical and methodological foundation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-8" value="Study 1 (Section 2)&lt;br style=&quot;font-size: 13px;&quot;&gt;Systematic literature review&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Big data in consumer behavior research&lt;div style=&quot;font-size: 13px;&quot;&gt;Summarizes data sources, methods and research questions&lt;br style=&quot;font-size: 13px;&quot;&gt;Identifies gaps in cross-cultural analysis, machine learning and theory integration&lt;br style=&quot;font-size: 13px;&quot;&gt;Builds the theoretical and methodological foundation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-9" value="Study 2 (Section 3)&lt;br&gt;Cross-cultural sentiment analysis&lt;div&gt;&lt;br&gt;Chinese and Italian e-commerce wine reviews&lt;br&gt;Transformer-based native-language models&lt;br&gt;Compares evaluative intensity. emotional magnitude and review focal points&lt;br&gt;Reveals differences in emotional expression across cultural and market contexts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-9" value="Study 2 (Section 3)&lt;br style=&quot;font-size: 13px;&quot;&gt;Cross-cultural sentiment analysis&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Chinese and Italian e-commerce wine reviews&lt;br style=&quot;font-size: 13px;&quot;&gt;Transformer-based native-language models&lt;br style=&quot;font-size: 13px;&quot;&gt;Compares evaluative intensity. emotional magnitude and review focal points&lt;br style=&quot;font-size: 13px;&quot;&gt;Reveals differences in emotional expression across cultural and market contexts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-10" value="Study 3 (Section 4)&lt;div&gt;Psychological consumer profiling&lt;br&gt;&lt;br&gt;Unsupervised machine learning&lt;br&gt;Features: review length, star ratings, emotional expressions&lt;br&gt;Identifies latent psychological structures&lt;br&gt;Explains behavioral heterogeneity in digital retail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-10" value="Study 3 (Section 4)&lt;div style=&quot;font-size: 13px;&quot;&gt;Psychological consumer profiling&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Unsupervised machine learning&lt;br style=&quot;font-size: 13px;&quot;&gt;Features: review length, star ratings, emotional expressions&lt;br style=&quot;font-size: 13px;&quot;&gt;Identifies latent psychological structures&lt;br style=&quot;font-size: 13px;&quot;&gt;Explains behavioral heterogeneity in digital retail&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-11" value="Study 4 (Section 5)&lt;br&gt;Product-attribute evaluation&lt;br&gt;&lt;br&gt;Analyzes price, origin and product category&lt;br&gt;Uses interaction effect models&lt;br&gt;Examines heterogeneous effects of consumer profiles and product attributes&lt;br&gt;Uncovers decision-making mechanisms behind evaluative behaviors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-11" value="Study 4 (Section 5)&lt;br style=&quot;font-size: 13px;&quot;&gt;Product-attribute evaluation&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;Analyzes price, origin and product category&lt;br style=&quot;font-size: 13px;&quot;&gt;Uses interaction effect models&lt;br style=&quot;font-size: 13px;&quot;&gt;Examines heterogeneous effects of consumer profiles and product attributes&lt;br style=&quot;font-size: 13px;&quot;&gt;Uncovers decision-making mechanisms behind evaluative behaviors" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="329.5" as="sourcePoint" />
             <mxPoint x="190" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="329.5" as="sourcePoint" />
             <mxPoint x="370" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=13;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="329.5" as="sourcePoint" />
             <mxPoint x="550" y="329.5" as="targetPoint" />
