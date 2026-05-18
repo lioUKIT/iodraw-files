@@ -16,7 +16,7 @@
         <mxCell id="CsVSboKwtgPaQZPg8vhi-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="40" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CsVSboKwtgPaQZPg8vhi-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="290" as="sourcePoint" />
             <mxPoint x="430" y="240" as="targetPoint" />
