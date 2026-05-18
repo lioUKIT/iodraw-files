@@ -43,7 +43,7 @@
         <mxCell id="CsVSboKwtgPaQZPg8vhi-10" value="Study 3 (Section 4)&lt;div&gt;Psychological consumer profiling&lt;br&gt;&lt;br&gt;Unsupervised machine learning&lt;br&gt;Features: review length, star ratings, emotional expressions&lt;br&gt;Identifies latent psychological structures&lt;br&gt;Explains behavioral heterogeneity in digital retail&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="150" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-11" value="Study 4 (Section 5)&lt;br&gt;Product-attribute evaluation&lt;br&gt;&lt;br&gt;Analyzes price, origin and product category&lt;br&gt;Uses interaction effect models&lt;br&gt;Examines heterogeneous effects of consumer profiles and product attributes&lt;br&gt;Uncovers decision-making mechanisms behind evaluative behaviors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="CsVSboKwtgPaQZPg8vhi-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
