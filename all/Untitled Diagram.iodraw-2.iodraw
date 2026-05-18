@@ -28,10 +28,10 @@
             <mxPoint x="370" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CsVSboKwtgPaQZPg8vhi-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.02;entryY=0.594;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;entryPerimeter=0;" edge="1" parent="1" target="CsVSboKwtgPaQZPg8vhi-4">
+        <mxCell id="CsVSboKwtgPaQZPg8vhi-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.02;entryY=0.594;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CsVSboKwtgPaQZPg8vhi-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="522" y="88" as="sourcePoint" />
-            <mxPoint x="550" y="99.5" as="targetPoint" />
+            <mxPoint x="522" y="130.48" as="sourcePoint" />
+            <mxPoint x="553" y="129.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CsVSboKwtgPaQZPg8vhi-8" value="Study 1 (Section 2)&lt;br style=&quot;font-size: 14px;&quot;&gt;Systematic literature review&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;Big data in consumer behavior research&lt;div style=&quot;font-size: 14px;&quot;&gt;Summarizes data sources, methods and research questions&lt;br style=&quot;font-size: 14px;&quot;&gt;Identifies gaps in cross-cultural analysis, machine learning and theory integration&lt;br style=&quot;font-size: 14px;&quot;&gt;Builds the theoretical and methodological foundation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
