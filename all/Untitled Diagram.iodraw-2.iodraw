@@ -14,7 +14,7 @@
           <mxGeometry x="570" y="40" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="50" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
