@@ -140,6 +140,9 @@
             <mxPoint x="460" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;Alternative algorithms &#xa;Dimensionality reduction settings &#xa;Sub-sampling iterations" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="305" y="600" width="250" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
