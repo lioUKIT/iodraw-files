@@ -4,82 +4,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="210" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="310" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus: &lt;span style=&quot;font-weight: normal;&quot;&gt;Product extrinsic cues&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#82b366;fontStyle=1;fillColor=#d5e8d4;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus: &lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Product extrinsic cues&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#82b366;fontStyle=1;fillColor=#d5e8d4;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="60" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: &lt;span style=&quot;font-weight: normal;&quot;&gt;Contextual and profile boundaries&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: &lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Contextual and profile boundaries&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="60" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: &lt;span style=&quot;font-weight: normal;&quot;&gt;Final outcomes&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: &lt;span style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Final outcomes&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="&lt;b&gt;Price&lt;/b&gt;&lt;br&gt;Dual attributes: Quality signal and its perceived risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Price&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Dual attributes: Quality signal and its perceived risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="130" width="143.75" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-9" value="&lt;b&gt;Origin&lt;/b&gt;&lt;br&gt;Supplemental extrinsic cue; represents geographical heritage and brand association" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-9" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Origin&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Supplemental extrinsic cue; represents geographical heritage and brand association" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="280" width="145" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-10" value="&lt;b&gt;Market platform context&lt;/b&gt;&lt;br&gt;1. China (JD.com) (Jiuxian.com)&lt;div&gt;Italy (Amazon.it) (Vivino.it)&lt;/div&gt;&lt;div&gt;2. Mechanism: Moderates the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;relationship of&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;price and sentiment via local reference prices, platform review trust and review norms.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-10" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Market platform context&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;1. China (JD.com) (Jiuxian.com)&lt;div style=&quot;font-size: 16px;&quot;&gt;Italy (Amazon.it) (Vivino.it)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;2. Mechanism: Moderates the&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;relationship of&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&amp;nbsp;price and sentiment via local reference prices, platform review trust and review norms.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-15" value="&lt;b&gt;Consumer engagement profile&lt;/b&gt;&lt;br&gt;High-engagement, attribute-sensitive reviewers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-15" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Consumer engagement profile&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;High-engagement, attribute-sensitive reviewers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="245" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-2" target="qBIpEgBRjttZml3WF3Tr-17">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-2" target="qBIpEgBRjttZml3WF3Tr-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-8" target="qBIpEgBRjttZml3WF3Tr-2">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-8" target="qBIpEgBRjttZml3WF3Tr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-9" target="qBIpEgBRjttZml3WF3Tr-2">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-9" target="qBIpEgBRjttZml3WF3Tr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-15" target="qBIpEgBRjttZml3WF3Tr-17">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-15" target="qBIpEgBRjttZml3WF3Tr-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="540" as="sourcePoint" />
             <mxPoint x="560" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-28" value="interaction effect" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-27">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-28" value="interaction effect" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-10">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="600" as="sourcePoint" />
             <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-15">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="610" as="sourcePoint" />
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-35" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-34">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-35" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
