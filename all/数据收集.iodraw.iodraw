@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="260" height="280" as="geometry" />
+          <mxGeometry x="440" y="720" width="260" height="280" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="130" y="720" width="270" height="280" as="geometry" />
