@@ -26,7 +26,7 @@
           <mxGeometry x="36.25" y="130" width="143.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-9" value="&lt;b&gt;Origin&lt;/b&gt;&lt;br&gt;Supplemental extrinsic cue; represents geographical heritage and brand association" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="340" width="145" height="100" as="geometry" />
+          <mxGeometry x="37.5" y="280" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-10" value="&lt;b&gt;Market platform context&lt;/b&gt;&lt;br&gt;1. China (JD.com) (Jiuxian.com)&lt;div&gt;Italy (Amazon.it) (Vivino.it)&lt;/div&gt;&lt;div&gt;2. Mechanism: Moderates the&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;relationship of&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;price and sentiment via local reference prices, platform review trust and review norms.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="270" height="100" as="geometry" />
@@ -49,7 +49,7 @@
             <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-9">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-9" target="qBIpEgBRjttZml3WF3Tr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
