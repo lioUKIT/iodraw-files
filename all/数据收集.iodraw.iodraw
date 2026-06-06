@@ -128,7 +128,7 @@
           <mxGeometry x="560" y="720" width="260" height="280" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="11.380000000000003" y="720" width="270" height="280" as="geometry" />
+          <mxGeometry x="130" y="720" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEkWpZDwl29wmI7z6v-Q-2" target="gEkWpZDwl29wmI7z6v-Q-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,7 +142,7 @@
             <mxPoint x="280" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D7b_DYPVFalbwSY3mUWO-1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="gEkWpZDwl29wmI7z6v-Q-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="690" as="sourcePoint" />
             <mxPoint x="170" y="710" as="targetPoint" />
