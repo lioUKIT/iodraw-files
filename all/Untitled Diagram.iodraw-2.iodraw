@@ -16,7 +16,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus: Product extrinsic cues" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#82b366;fontStyle=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="55" y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: Contextual and profile boundaries" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: Contextual and profile boundaries" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: Final outcomes" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;fontStyle=1" vertex="1" parent="1">
