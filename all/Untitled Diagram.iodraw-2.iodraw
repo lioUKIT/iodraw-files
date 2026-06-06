@@ -28,6 +28,9 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-9" value="&lt;b&gt;Origin&lt;/b&gt;&lt;br&gt;Supplemental extrinsic cue; represents geographical heritage and brand association" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="340" width="145" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-10" value="&lt;b&gt;Price&lt;/b&gt;&lt;br&gt;Dual attributes: Quality signal and its perceived risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="147.5" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
