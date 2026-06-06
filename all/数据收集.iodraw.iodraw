@@ -131,17 +131,14 @@
             <mxPoint x="440" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-4" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;Alternative algorithms &#xa;Dimensionality reduction settings &#xa;Sub-sampling iterations" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="295" y="590" width="250" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="D7b_DYPVFalbwSY3mUWO-4" edge="1">
+        <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="440" as="sourcePoint" />
-            <mxPoint x="460" y="390" as="targetPoint" />
+            <mxPoint x="420" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="380" y="770" width="310" height="260" as="geometry" />
+          <mxGeometry x="480" y="770" width="310" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
