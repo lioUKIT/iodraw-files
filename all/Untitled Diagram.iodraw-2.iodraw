@@ -10,7 +10,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="310" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus: Product extrinsic cues" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#82b366;fontStyle=1;fillColor=#d5e8d4;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: Contextual and profile boundaries" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: Final outcomes" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: Final outcomes" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#36393d;fontStyle=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="60" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="Price" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
