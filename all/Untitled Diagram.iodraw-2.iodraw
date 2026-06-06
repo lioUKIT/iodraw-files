@@ -13,8 +13,8 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="40" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="140" height="50" as="geometry" />
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-5" value="Stimulus" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="60" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
