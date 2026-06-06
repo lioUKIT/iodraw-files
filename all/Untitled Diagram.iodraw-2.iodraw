@@ -22,7 +22,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: Final outcomes" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="Price" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="&lt;b&gt;Price&lt;/b&gt;&lt;br&gt;Dual attributes: Quality signal and its perceived risk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
