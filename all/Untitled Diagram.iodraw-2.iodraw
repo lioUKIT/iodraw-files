@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qBIpEgBRjttZml3WF3Tr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="20" y="40" width="180" height="440" as="geometry" />
+          <mxGeometry x="20" y="45" width="180" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="310" height="440" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="260" y="310" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="250" width="180" height="30" as="geometry" />
+          <mxGeometry x="590" y="245" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-2" target="qBIpEgBRjttZml3WF3Tr-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
