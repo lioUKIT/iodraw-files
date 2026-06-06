@@ -17,7 +17,7 @@
           <mxGeometry x="55" y="60" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-6" value="Organism: &lt;span style=&quot;font-weight: normal;&quot;&gt;Contextual and profile boundaries&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=#d6b656;fontStyle=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="280" height="40" as="geometry" />
+          <mxGeometry x="250" y="60" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: &lt;span style=&quot;font-weight: normal;&quot;&gt;Final outcomes&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="180" height="30" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
