@@ -20,7 +20,10 @@
           <mxGeometry x="340" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-7" value="Response: Final outcomes" style="rounded=0;html=1;whiteSpace=wrap;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="640" y="60" width="110" height="20" as="geometry" />
+          <mxGeometry x="640" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
