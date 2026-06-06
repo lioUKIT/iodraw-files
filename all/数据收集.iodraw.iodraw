@@ -141,7 +141,7 @@
           <mxGeometry x="490" y="750" width="310" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="740" width="270" height="160" as="geometry" />
+          <mxGeometry x="50" y="740" width="270" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
