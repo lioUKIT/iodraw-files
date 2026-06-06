@@ -37,7 +37,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;" vertex="1" parent="1">
           <mxGeometry x="590" y="250" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="300" as="sourcePoint" />
             <mxPoint x="500" y="300" as="targetPoint" />
