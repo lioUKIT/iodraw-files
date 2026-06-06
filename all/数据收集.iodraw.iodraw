@@ -140,8 +140,8 @@
             <mxPoint x="460" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;&#xa;Four-platform robustness checkThreshold sensitivity analysis&#xa;Alternative price-measure robustness check" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300" y="770" width="250" height="100" as="geometry" />
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;&#xa;Four-platform robustness check&#xa;Threshold sensitivity analysis&#xa;Alternative price-measure robustness check" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="430" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
