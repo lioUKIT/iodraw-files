@@ -76,7 +76,7 @@
             <mxPoint x="360" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
