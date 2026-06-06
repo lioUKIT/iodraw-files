@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d8fdfc;strokeColor=#b1f0f2;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="585" width="247" height="100" as="geometry" />
+          <mxGeometry x="295" y="591" width="247" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-12" target="D7b_DYPVFalbwSY3mUWO-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,12 +122,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="650" as="sourcePoint" />
             <mxPoint x="440" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="gEkWpZDwl29wmI7z6v-Q-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="440" as="sourcePoint" />
-            <mxPoint x="280" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
@@ -146,6 +140,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="410" as="sourcePoint" />
             <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="sourcePoint" />
+            <mxPoint x="155" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="130" />
+              <mxPoint x="310" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
