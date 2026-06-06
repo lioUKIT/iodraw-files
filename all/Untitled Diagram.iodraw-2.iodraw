@@ -26,13 +26,13 @@
           <mxGeometry x="20" y="120" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-9" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Origin&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Supplemental extrinsic cue; represents geographical heritage and brand association" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="37.5" y="280" width="145" height="100" as="geometry" />
+          <mxGeometry x="20" y="280" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-10" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Market platform context&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;1. China (JD.com) (Jiuxian.com)&lt;div style=&quot;font-size: 16px;&quot;&gt;Italy (Amazon.it) (Vivino.it)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;2. Mechanism: Moderates the&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;relationship of&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&amp;nbsp;price and sentiment via local reference prices, platform review trust and review norms.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="115" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-15" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Consumer engagement profile&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;High-engagement, attribute-sensitive reviewers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="270" height="100" as="geometry" />
+          <mxGeometry x="260" y="310" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 16px;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="245" width="180" height="30" as="geometry" />
