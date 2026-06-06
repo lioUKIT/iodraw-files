@@ -32,7 +32,7 @@
           <mxGeometry x="260" y="130" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-15" value="&lt;b&gt;Consumer engagement profile&lt;/b&gt;&lt;br&gt;High-engagement, attribute-sensitive reviewers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="270" height="100" as="geometry" />
+          <mxGeometry x="260" y="350" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-17" value="Sentiment level&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Consumer review sentiment level&lt;/span&gt;" style="rounded=0;html=1;whiteSpace=wrap;fontStyle=1;fillColor=#cce5ff;strokeColor=#199ef0;" vertex="1" parent="1">
           <mxGeometry x="590" y="245" width="180" height="30" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBIpEgBRjttZml3WF3Tr-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="600" as="sourcePoint" />
-            <mxPoint x="350" y="600" as="targetPoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Interaction" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
