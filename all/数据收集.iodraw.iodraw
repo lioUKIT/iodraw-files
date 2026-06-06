@@ -138,10 +138,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="770" width="310" height="260" as="geometry" />
+          <mxGeometry x="490" y="750" width="310" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="780" width="310" height="260" as="geometry" />
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;&#xa;Moderation modelAlternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="750" width="310" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
