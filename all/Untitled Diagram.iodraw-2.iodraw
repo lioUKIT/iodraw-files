@@ -70,11 +70,14 @@
         <mxCell id="qBIpEgBRjttZml3WF3Tr-28" value="interaction effect" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qBIpEgBRjttZml3WF3Tr-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="630" as="sourcePoint" />
+            <mxPoint x="360" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qBIpEgBRjttZml3WF3Tr-31" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="qBIpEgBRjttZml3WF3Tr-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
