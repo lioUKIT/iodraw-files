@@ -131,17 +131,17 @@
             <mxPoint x="440" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" edge="1">
+        <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="gEkWpZDwl29wmI7z6v-Q-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="440" as="sourcePoint" />
             <mxPoint x="280" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="750" width="310" height="260" as="geometry" />
+          <mxGeometry x="490" y="730" width="310" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 9: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="740" width="270" height="220" as="geometry" />
+          <mxGeometry x="100" y="790" width="270" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
