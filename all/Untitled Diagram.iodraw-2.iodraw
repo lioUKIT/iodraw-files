@@ -56,7 +56,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qOqLvmMqd2jA_kYzG_zl-13" value="&lt;b&gt;H1&lt;/b&gt; (Contextual Variation)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="140" height="20" as="geometry" />
+          <mxGeometry x="350" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qOqLvmMqd2jA_kYzG_zl-14" value="&lt;b&gt;H1&lt;/b&gt; (Contextual Variation)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
