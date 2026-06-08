@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="F3P_qx59ZLpJARCp1W1T">
-    <mxGraphModel dx="786" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="146" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qOqLvmMqd2jA_kYzG_zl-1" value="Market Platform Context&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Trust, Culture and Norms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="170" height="50" as="geometry" />
+          <mxGeometry x="250" y="30" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOqLvmMqd2jA_kYzG_zl-2" value="Product Cues" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="105" y="120" width="110" height="120" as="geometry" />
