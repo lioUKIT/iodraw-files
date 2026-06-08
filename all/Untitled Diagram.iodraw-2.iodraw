@@ -16,7 +16,7 @@
         <mxCell id="qOqLvmMqd2jA_kYzG_zl-4" value="Origin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qOqLvmMqd2jA_kYzG_zl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qOqLvmMqd2jA_kYzG_zl-5" value="SOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="230" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
