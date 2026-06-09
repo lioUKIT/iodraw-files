@@ -26,7 +26,7 @@
           <mxGeometry x="640" y="370" width="175" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-8" value="JD.com | Jiuxian.com &#xa;Tolerance threshold set to&#xa;12% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="450" y="330" width="169" height="100" as="geometry" />
+          <mxGeometry x="470" y="330" width="149" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it | Vivino.it &#xa;Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="450" y="440" width="170.5" height="90" as="geometry" />
