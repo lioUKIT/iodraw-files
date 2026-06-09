@@ -41,7 +41,7 @@
           <mxGeometry x="-10" y="330" width="171.38" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-24.310000000000002" y="450" width="200" height="70" as="geometry" />
+          <mxGeometry y="430" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontFamily=Times New Roman;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-4" target="zlI-Av7pnyiapbur2dU0-5" edge="1">
           <mxGeometry relative="1" as="geometry">
