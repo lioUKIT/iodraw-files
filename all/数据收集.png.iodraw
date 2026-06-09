@@ -125,10 +125,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="460" y="720" width="260" height="220" as="geometry" />
+          <mxGeometry x="460" y="720" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="120" y="720" width="270" height="210" as="geometry" />
+          <mxGeometry x="120" y="720" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gEkWpZDwl29wmI7z6v-Q-2" target="gEkWpZDwl29wmI7z6v-Q-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
