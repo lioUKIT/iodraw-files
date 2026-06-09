@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="yEdmjhhrT8AuRvOykLUb">
-    <mxGraphModel dx="292" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="146" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,25 +124,25 @@
             <mxPoint x="440" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="460" y="720" width="260" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;Parallel regression models&#xa;Stepwise OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="720" width="270" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEkWpZDwl29wmI7z6v-Q-2" target="gEkWpZDwl29wmI7z6v-Q-1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gEkWpZDwl29wmI7z6v-Q-2" target="gEkWpZDwl29wmI7z6v-Q-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="810" as="sourcePoint" />
             <mxPoint x="340" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-5" target="zlI-Av7pnyiapbur2dU0-6">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-5" target="zlI-Av7pnyiapbur2dU0-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="410" as="sourcePoint" />
             <mxPoint x="280" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="gEkWpZDwl29wmI7z6v-Q-2">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="gEkWpZDwl29wmI7z6v-Q-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="690" as="sourcePoint" />
             <mxPoint x="170" y="710" as="targetPoint" />
