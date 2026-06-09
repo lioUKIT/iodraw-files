@@ -35,7 +35,7 @@
           <mxGeometry x="127" y="330" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-11" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;Amazon.it | 5,205 (81.51% Retention)&#xa;Vivino.it | 5,753 (16.31% Retention)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="142" y="450" width="255" height="90" as="geometry" />
+          <mxGeometry x="180" y="440" width="255" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-200" y="320" width="271.38" height="101" as="geometry" />
