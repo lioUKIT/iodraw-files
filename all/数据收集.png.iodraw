@@ -10,7 +10,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Web Scraper browser extension)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Vivino.it&#xa;Keyword: “Vino”&#xa;Yield: 6,386 | 35,270 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="10" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Initial text deduplication, exclusion of invalid short reviews, and removal of missing data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Initial text deduplication, exclusion of invalid short reviews and removal of missing data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="300" y="10" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-4" value="Phase 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
