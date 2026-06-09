@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="yEdmjhhrT8AuRvOykLUb">
-    <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="225" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e8fbe5;strokeColor=#b1f0f2;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="560" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="560" y="550" width="260" height="170" as="geometry" />
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="560" y="560" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;OLS regression models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="560" width="270" height="160" as="geometry" />
