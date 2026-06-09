@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d8fdfc;strokeColor=#b1f0f2;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1de7e1;strokeColor=#b1f0f2;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="570" width="247" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robutness Check&#xa;-------------------------&#xa;Threshold sensitivity analysis&#xa;Fraudulent-review detection threshold validation&#xa;Four-platform robustness check&#xa;Balanced sampling check&#xa;Alternative price-measure check&#xa;Brand-control robustness check&#xa;Product-category control check&#xa;Price-by-market-platform interaction test&#xa;Price-by-profile interaction test&#xa;Nonlinear price-effect test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
