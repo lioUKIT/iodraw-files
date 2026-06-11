@@ -112,10 +112,10 @@
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ddf5f8;strokeColor=#b1f0f2;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="560" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robustness Check&#xa;-------------------------&#xa;Replace data and analysis method&#xa;Added-platform robustness&#xa;Sentiment and clustering robustness&#xa;Core price × market-platform context robustness&#xa;Origin-country leave-one-out test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#c9eed6;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-1" value="Phase 9: Robustness Check&#xa;-------------------------&#xa;Replace data and analysis method&#xa;Added-platform robustness&#xa;Sentiment and clustering robustness&#xa;Core price × market-platform context robustness&#xa;Origin-country leave-one-out test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d1ffe1;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="260" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;OLS and LMM models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e7f7d9;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="gEkWpZDwl29wmI7z6v-Q-2" value="Phase 8: Regression Analysis&#xa;-------------------------&#xa;OLS and LMM models&#xa;Interaction-term regression model&#xa;Moderation model&#xa;Platform fixed-effects model&#xa;Quadratic price model" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f7fff0;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="250" y="560" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gEkWpZDwl29wmI7z6v-Q-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gEkWpZDwl29wmI7z6v-Q-2" target="gEkWpZDwl29wmI7z6v-Q-1" edge="1">
