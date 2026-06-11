@@ -7,7 +7,7 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-1" value="Phase 1: Data Collection&#xa;(Octoparse software)&#xa;-------------------------&#xa;Branch A (China)&#xa;Platform: JD.com | Jiuxian.com&#xa;Keyword: “葡萄酒”&#xa;Yield:  43,353 | 80,502 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fdfcf2;strokeColor=#fdfcf2;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Web Scraper browser extension)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Vivino.it&#xa;Keyword: “Vino”&#xa;Yield: 6,386 | 35,270 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fdfcf2;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Web Scraper browser extension)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Vivino.it&#xa;Keyword: “Vino”&#xa;Yield: 6,386 | 35,270 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fdfcf2;strokeColor=#fdfcf2;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="10" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Initial text deduplication, exclusion of invalid short reviews and removal of missing data" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
