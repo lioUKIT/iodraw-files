@@ -7,7 +7,7 @@
         <mxCell id="QFqtrEatfk_wiKe1Xz-D-1" value="&lt;b&gt;Platformized consumer environment&lt;/b&gt;&lt;br&gt;Algorithmic curation, Trust structures, Review norms, Product assortments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QFqtrEatfk_wiKe1Xz-D-2" value="Relative price cue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QFqtrEatfk_wiKe1Xz-D-2" value="Relative price cue" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QFqtrEatfk_wiKe1Xz-D-3" value="&lt;b&gt;Affective evaluation&lt;/b&gt;&lt;br&gt;(sentiment score)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="QFqtrEatfk_wiKe1Xz-D-4" value="&lt;b&gt;Review-engagement profiles&lt;/b&gt;&lt;br&gt;Cognitive investment, Attribute sensitivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QFqtrEatfk_wiKe1Xz-D-5" value="Origin cues" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="QFqtrEatfk_wiKe1Xz-D-5" value="Origin cues" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
