@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QFqtrEatfk_wiKe1Xz-D-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Platformized consumer environment&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;Algorithmic curation, Trust structures, Review norms, Product assortments" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="500" height="80" as="geometry" />
+          <mxGeometry x="140" y="40" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QFqtrEatfk_wiKe1Xz-D-2" value="Relative price cue" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="160" height="60" as="geometry" />
