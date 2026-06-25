@@ -23,7 +23,7 @@
           <mxGeometry x="520" y="275" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="230" height="400" as="geometry" />
+          <mxGeometry x="60" y="520" width="220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b&gt;Digital Retail Ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
           <mxGeometry x="20" y="220" width="210" height="170" as="geometry" />
