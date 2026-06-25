@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering&#xa;UMAP&#xa;TF-IDF" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="53" y="600" width="247" height="100" as="geometry" />
+          <mxGeometry x="100" y="590" width="247" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-4" value="Phase 8: Robustness Check&#xa;-------------------------&#xa;Alternative algorithms &#xa;Dimensionality reduction settings &#xa;Sub-sampling iterations" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="460" y="600" width="250" height="100" as="geometry" />
+          <mxGeometry x="500" y="600" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="D7b_DYPVFalbwSY3mUWO-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
