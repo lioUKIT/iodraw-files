@@ -22,7 +22,7 @@
         <mxCell id="raMNA3LF4BYf68GD3QHu-3" value="RQ1: Rating, Sentiment, and length behavioral configurations&amp;nbsp; &amp;nbsp;(Homogenization vs Heterogenization)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="520" y="275" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#31a607;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#76ab63;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="480" width="280" height="440" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b&gt;Digital Retail Ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
