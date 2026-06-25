@@ -28,7 +28,7 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="460" width="280" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Digital Retail Ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#82b366;startSize=30;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Digital retail ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#82b366;startSize=30;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
           <mxGeometry x="7.5" y="180" width="260" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Online Grape Wine Reviews (UGC)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0d0d0c;verticalAlign=top;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-5">
@@ -56,7 +56,7 @@
           <mxGeometry x="10" y="110" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
