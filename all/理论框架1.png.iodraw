@@ -52,11 +52,11 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-3" value="Stage 3 (Output)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="457.75" width="140" height="442.25" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-22" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;Topological mapping and&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;managerial insights&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Cross-market heterogeneity&lt;/b&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;Strategy formulation&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-3">
-          <mxGeometry x="5" y="102.25" width="130" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-3">
           <mxGeometry y="22.25" width="140" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-22" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;Topological mapping and&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;managerial insights&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Cross-market heterogeneity&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Strategy formulation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#080807;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-3">
+          <mxGeometry x="5" y="102.25" width="130" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
