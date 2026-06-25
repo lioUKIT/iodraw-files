@@ -58,6 +58,12 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-22" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Topological mapping and&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;managerial insights&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Cross-market heterogeneity&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Strategy formulation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#080807;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-3">
           <mxGeometry x="5" y="102.25" width="130" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="840" as="sourcePoint" />
+            <mxPoint x="400" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
