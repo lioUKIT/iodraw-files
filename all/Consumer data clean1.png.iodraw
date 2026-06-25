@@ -11,10 +11,10 @@
           <mxGeometry x="10" y="170" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &gt;= 2021)&#xa;&#xa;&#xa;Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="300" y="10" width="200" height="300" as="geometry" />
+          <mxGeometry x="310" y="10" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score ≥ 3.5&#xa;&#xa;The 6 dimensions briefly:&#xa;• High-frequency users (w=2)&#xa;• Repetitive templates (w=1.5)&#xa;• Generic phrase stuffing (w=1)&#xa;• Structured long templates (w=1)&#xa;• Extremely short 5-star (w=0.5)&#xa;• Concentrated burst periods (w=0.5)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="520" y="10" width="246" height="300" as="geometry" />
+          <mxGeometry x="544" y="10" width="246" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="340" width="150" height="220" as="geometry" />
