@@ -31,7 +31,7 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-5">
           <mxGeometry x="-20" y="-170" width="280" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Online Grape Wine Reviews (UGC)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-5">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Online Grape Wine Reviews (UGC)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0d0d0c;verticalAlign=top;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-5">
           <mxGeometry y="20" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="raMNA3LF4BYf68GD3QHu-1" value="&lt;b&gt;RQ2&lt;/b&gt;: Review-profile behavioral baselines (sentiment score, review star rating, review length)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#050505;fontFamily=Times New Roman;fontSize=14;" parent="_BOl_XJ7B5ulAYb26Yyb-5" vertex="1">
