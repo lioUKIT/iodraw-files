@@ -43,7 +43,7 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-2" value="Stage 2 (Processing)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="200" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-2">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-7" value="&lt;b&gt;Integrated Analysis Pipeline&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-2">
           <mxGeometry x="15" y="80" width="170" height="274.5" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-3" value="Stage 3 (Output)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
