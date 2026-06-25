@@ -20,7 +20,7 @@
           <mxGeometry x="510" y="550" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="raMNA3LF4BYf68GD3QHu-2" value="RQ3: Consumer evaluation paradigms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="275" y="1045" width="240" height="30" as="geometry" />
+          <mxGeometry x="30" y="1015" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="raMNA3LF4BYf68GD3QHu-3" value="RQ1: Rating, Sentiment, and length behavioral configurations&amp;nbsp; &amp;nbsp;(Homogenization vs Heterogenization)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="110" height="60" as="geometry" />
