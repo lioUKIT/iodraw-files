@@ -37,7 +37,7 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-2" value="Stage 2 (Processing)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#4978bc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="220" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-7" value="&lt;b&gt;Integrated analysis pipeline&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-2">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-7" value="&lt;b&gt;Integrated analysis pipeline&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#4978bc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-2">
           <mxGeometry x="10" y="47.75" width="200" height="372.25" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-17" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;b&gt;NLP and machine learning&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Data crawling, BERT,&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;feature extraction&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0a0a0a;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-7">
