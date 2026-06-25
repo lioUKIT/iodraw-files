@@ -23,7 +23,7 @@
           <mxGeometry x="9" y="561.5" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-9" value="Amazon.it: Tolerance threshold set to&#xa;15% of total character count." style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="559" y="560" width="260" height="110" as="geometry" />
+          <mxGeometry x="520" y="475" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-10" value="Phase 5: Final Analytical Corpus&#xa;-------------------------&#xa;JD.com&#xa;27,126 Reviews (62.57% Retention)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="9" y="690" width="270" height="100" as="geometry" />
@@ -112,7 +112,7 @@
             <mxPoint x="500" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="psM0KNWHJXE1y0Nm2yB9-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-5">
+        <mxCell id="psM0KNWHJXE1y0Nm2yB9-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-5" target="zlI-Av7pnyiapbur2dU0-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="440" as="sourcePoint" />
             <mxPoint x="500" y="390" as="targetPoint" />
