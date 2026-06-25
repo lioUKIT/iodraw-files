@@ -32,10 +32,10 @@
           <mxGeometry x="240" y="460" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="10" y="370" width="210" height="90" as="geometry" />
+          <mxGeometry x="10" y="345" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="559" y="810" width="260" height="101" as="geometry" />
+          <mxGeometry x="5" y="459" width="220" height="101" as="geometry" />
         </mxCell>
         <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="zlI-Av7pnyiapbur2dU0-1" target="zlI-Av7pnyiapbur2dU0-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
