@@ -28,7 +28,7 @@
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="460" width="280" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Digital retail ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#82b366;startSize=30;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
+        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Digital retail ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#8cc68a;strokeColor=#82b366;startSize=50;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
           <mxGeometry x="7.5" y="180" width="260" height="250" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Online grape wine reviews (UGC)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#0d0d0c;verticalAlign=top;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-5">
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-10" value="&lt;p data-path-to-node=&quot;2,0,0&quot; style=&quot;font-size: 16px; line-height: 8px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;China / Emerging Market&lt;/span&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;2,0,0&quot; style=&quot;font-size: 16px; line-height: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Italy / Mature Market&lt;/span&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;2,0,0&quot; style=&quot;font-size: 16px; line-height: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Institutional / Cultural Difference&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#121212;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-4">
           <mxGeometry y="20" width="250" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_BOl_XJ7B5ulAYb26Yyb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_BOl_XJ7B5ulAYb26Yyb-1" source="_BOl_XJ7B5ulAYb26Yyb-11" target="_BOl_XJ7B5ulAYb26Yyb-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-2" value="Stage 2 (Processing)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="200" height="400" as="geometry" />
