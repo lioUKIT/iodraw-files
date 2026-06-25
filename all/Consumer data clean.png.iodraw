@@ -10,11 +10,8 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-2" value="Phase 1: Data Collection&#xa;(Standardized Python Scripts)&#xa;-------------------------&#xa;Branch B (Italy)&#xa;Platform: Amazon.it | Keyword: “Vino”&#xa;Scope: 138 Products | Yield: 9,864 Raw Reviews" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="170" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &gt;= 2021)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="300" y="10" width="250" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-4" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="295.5" y="170" width="270" height="140" as="geometry" />
+        <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Temporal Restriction&#xa;(Keep reviews from &gt;= 2021)&#xa;&#xa;&#xa;Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates, and&#xa;cross-user duplicates exhibiting &gt;= 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="300" y="10" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &gt;3.5" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="293" y="390" width="246" height="140" as="geometry" />
@@ -64,10 +61,10 @@
             <mxPoint x="670" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="zlI-Av7pnyiapbur2dU0-2" target="zlI-Av7pnyiapbur2dU0-4" edge="1">
+        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="zlI-Av7pnyiapbur2dU0-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="530" as="sourcePoint" />
-            <mxPoint x="670" y="480" as="targetPoint" />
+            <mxPoint x="295.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="zlI-Av7pnyiapbur2dU0-5" target="zlI-Av7pnyiapbur2dU0-6" edge="1">
