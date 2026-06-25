@@ -19,9 +19,6 @@
         <mxCell id="wE-GXT29TpaClhuNw6uQ-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="520" y="210" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="raMNA3LF4BYf68GD3QHu-1" value="&lt;b&gt;RQ2&lt;/b&gt;: Review-profile behavioral baselines (sentiment score, review star rating, review length)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="120" y="920" width="210" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="raMNA3LF4BYf68GD3QHu-2" value="RQ3: Consumer evaluation paradigms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="275" y="285" width="240" height="30" as="geometry" />
         </mxCell>
@@ -29,10 +26,13 @@
           <mxGeometry x="520" y="275" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-1" value="Stage 1 (Input)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="200" height="400" as="geometry" />
+          <mxGeometry x="50" y="520" width="230" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-5" value="&lt;div style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400; line-height: 30.4px;&quot;&gt;&lt;b&gt;Digital Retail Ecosystem&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_BOl_XJ7B5ulAYb26Yyb-1">
-          <mxGeometry x="20" y="220" width="140" height="151" as="geometry" />
+          <mxGeometry x="20" y="220" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="raMNA3LF4BYf68GD3QHu-1" value="&lt;b&gt;RQ2&lt;/b&gt;: Review-profile behavioral baselines (sentiment score, review star rating, review length)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=14;" parent="_BOl_XJ7B5ulAYb26Yyb-5" vertex="1">
+          <mxGeometry y="100" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_BOl_XJ7B5ulAYb26Yyb-2" value="Stage 2 (Processing)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="520" width="200" height="400" as="geometry" />
