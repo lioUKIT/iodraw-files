@@ -53,7 +53,7 @@
           <mxGeometry x="140" y="580" width="247" height="105" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-4" value="Phase 8: Robustness Check&#xa;-------------------------&#xa;Alternative algorithms &#xa;Dimensionality reduction settings &#xa;Sub-sampling iterations&#xa;Additional platforms test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="430" y="585" width="250" height="100" as="geometry" />
+          <mxGeometry x="430" y="570" width="250" height="115" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="D7b_DYPVFalbwSY3mUWO-1" target="D7b_DYPVFalbwSY3mUWO-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
