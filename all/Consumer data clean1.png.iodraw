@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering&#xa;UMAP&#xa;TF-IDF" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="140" y="585" width="247" height="100" as="geometry" />
+          <mxGeometry x="140" y="580" width="247" height="105" as="geometry" />
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-4" value="Phase 8: Robustness Check&#xa;-------------------------&#xa;Alternative algorithms &#xa;Dimensionality reduction settings &#xa;Sub-sampling iterations&#xa;Additional platforms test" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="430" y="585" width="250" height="100" as="geometry" />
