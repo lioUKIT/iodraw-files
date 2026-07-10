@@ -13,11 +13,8 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-3" value="Phase 2: Data Cleaning&#xa;-------------------------&#xa;Step 1: Initial text deduplication, exclusion of invalid short reviews and removal of missing data&#xa;&#xa;Step 2: Deduplication&#xa;(Remove exact matches, same-user duplicates and&#xa;cross-user duplicates exhibiting ≥ 2 abnormal traits)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="300" y="10" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &gt;3.5" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="575.5" y="10" width="246" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-6" value="" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="570" y="160" width="257" height="140" as="geometry" />
+        <mxCell id="zlI-Av7pnyiapbur2dU0-5" value="Phase 3: Fraudulent Behavior Detection&#xa;-------------------------&#xa;Apply a Multi-Dimensional Scoring Model.&#xa;Drop reviews with a cumulative score &gt;3.5&#xa;&#xa;The 6 dimensions briefly:&#xa;• High-frequency users (w=2)&#xa;• Repetitive templates (w=1.5)&#xa;• Generic phrase stuffing (w=1)&#xa;• Structured long templates (w=1)&#xa;• Extremely short 5-star (w=0.5)&#xa;• Concentrated burst periods (w=0.5)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="575.5" y="10" width="246" height="290" as="geometry" />
         </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-7" value="Phase 4: Language-Adaptive Noise Detection&#xa;-------------------------&#xa;Filter long reviews (&gt; 50 characters) using dynamic thresholds." style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="646.5" y="350" width="175" height="130" as="geometry" />
@@ -112,10 +109,10 @@
             <mxPoint x="460" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_pKWCc0D3j_9YvqP_St-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-5" target="zlI-Av7pnyiapbur2dU0-6">
+        <mxCell id="Z_pKWCc0D3j_9YvqP_St-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="490" as="sourcePoint" />
-            <mxPoint x="500" y="440" as="targetPoint" />
+            <mxPoint x="698.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_pKWCc0D3j_9YvqP_St-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-2" target="zlI-Av7pnyiapbur2dU0-3">
@@ -130,10 +127,10 @@
             <mxPoint x="500" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_pKWCc0D3j_9YvqP_St-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-3" target="zlI-Av7pnyiapbur2dU0-6">
+        <mxCell id="Z_pKWCc0D3j_9YvqP_St-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="zlI-Av7pnyiapbur2dU0-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="370" as="sourcePoint" />
-            <mxPoint x="500" y="320" as="targetPoint" />
+            <mxPoint x="570" y="228.0934718100889" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
