@@ -46,7 +46,7 @@
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-21" value="LLM-extracted evaluative outcomes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-22" value="&lt;b&gt;Expert decoupling&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-22" value="&lt;b&gt;High star rating + High expert lexicon density&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-23" value="&lt;b&gt;High star rating + High compliance redundancy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
