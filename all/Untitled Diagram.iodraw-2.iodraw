@@ -94,8 +94,8 @@
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-31" value="OLS&lt;div&gt;verification&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-32" value="H1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
