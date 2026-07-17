@@ -50,7 +50,7 @@
           <mxGeometry x="650" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-23" value="&lt;b&gt;High star rating + High compliance redundancy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="650" y="130" width="130" height="60" as="geometry" />
+          <mxGeometry x="650" y="115" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3KvesWEJ3Ytv6PagbWT-11" target="Y3KvesWEJ3Ytv6PagbWT-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,6 +80,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="155" as="sourcePoint" />
             <mxPoint x="420" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3KvesWEJ3Ytv6PagbWT-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="155" as="sourcePoint" />
+            <mxPoint x="660" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
