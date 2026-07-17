@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="50" width="160" height="270" as="geometry" />
+          <mxGeometry x="10" y="40" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="150" height="240" as="geometry" />
+          <mxGeometry x="200" y="60" width="150" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-3" value="Cognitive processing modes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-4" value="Systematic processing&lt;br&gt;High involvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="210" width="130" height="60" as="geometry" />
+          <mxGeometry x="210" y="220" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="160" height="280" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="20" y="60" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-15" value="Heuristic processing&lt;br&gt;Low involvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="130" height="60" as="geometry" />
+          <mxGeometry x="210" y="130" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
