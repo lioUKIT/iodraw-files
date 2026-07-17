@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="50" width="160" height="380" as="geometry" />
+          <mxGeometry x="10" y="50" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="160" height="280" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="30" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-13" value="&lt;b&gt;Community-driven&lt;/b&gt;&lt;div&gt;&lt;b&gt;affordance&lt;/b&gt;&lt;br&gt;e.g., Amazon.it&lt;br&gt;Helpfulness votes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-14" value="Structural antecedents:&lt;br&gt;Platform affordances" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="60" width="140" height="40" as="geometry" />
