@@ -34,9 +34,6 @@
         <mxCell id="zlI-Av7pnyiapbur2dU0-12" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply RoBERTa Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="10" y="320" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zlI-Av7pnyiapbur2dU0-13" value="Phase 6: Sentiment Analysis&#xa;-------------------------&#xa;Apply UmBERTo Model&#xa;Output Sentiment Scores" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="10" y="430" width="190" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="zlI-Av7pnyiapbur2dU0-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;fontFamily=Times New Roman;fontSize=16;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-8" target="zlI-Av7pnyiapbur2dU0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -76,10 +73,10 @@
             <mxPoint x="679.75" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-11" target="zlI-Av7pnyiapbur2dU0-13" edge="1">
+        <mxCell id="S6hx9k5Sr1xJ6ZvmBUZN-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontFamily=Times New Roman;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="500" as="sourcePoint" />
-            <mxPoint x="679.75" y="610" as="targetPoint" />
+            <mxPoint x="200" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D7b_DYPVFalbwSY3mUWO-1" value="Phase 7: Cluster Analysis&#xa;-------------------------&#xa;K-Means unsupervised clustering" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5feff;strokeColor=#050505;fontFamily=Times New Roman;fontSize=16;gradientColor=none;" parent="1" vertex="1">
@@ -97,9 +94,9 @@
             <mxPoint x="560" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R58Qp1pXxIvI4HmSFeL4-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zlI-Av7pnyiapbur2dU0-13" target="D7b_DYPVFalbwSY3mUWO-1" edge="1">
+        <mxCell id="R58Qp1pXxIvI4HmSFeL4-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="D7b_DYPVFalbwSY3mUWO-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="610" as="sourcePoint" />
+            <mxPoint x="105" y="520" as="sourcePoint" />
             <mxPoint x="460" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
