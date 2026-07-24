@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="40" width="160" height="280" as="geometry" />
+          <mxGeometry x="10" y="40" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="150" height="240" as="geometry" />
@@ -105,18 +105,6 @@
         </mxCell>
         <mxCell id="Y3KvesWEJ3Ytv6PagbWT-35" value="H2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="25" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Y3KvesWEJ3Ytv6PagbWT-13" target="Y3KvesWEJ3Ytv6PagbWT-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="440" as="sourcePoint" />
-            <mxPoint x="410" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y3KvesWEJ3Ytv6PagbWT-41" value="H3b" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="325" y="310" width="25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
