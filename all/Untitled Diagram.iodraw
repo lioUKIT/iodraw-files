@@ -97,8 +97,8 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-25" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="360" width="62.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="510" width="50" height="20" as="geometry" />
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-26" value="infers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
