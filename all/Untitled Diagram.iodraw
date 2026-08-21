@@ -110,7 +110,7 @@
           <mxGeometry x="510" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="485" y="310" width="50" height="20" as="geometry" />
+          <mxGeometry x="480" y="310" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
