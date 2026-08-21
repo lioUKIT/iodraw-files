@@ -82,7 +82,7 @@
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUjYtrWZfMCw71I_kCS1-8" target="GUjYtrWZfMCw71I_kCS1-14">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="GUjYtrWZfMCw71I_kCS1-8" target="GUjYtrWZfMCw71I_kCS1-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="330" as="sourcePoint" />
             <mxPoint x="410" y="280" as="targetPoint" />
@@ -104,7 +104,7 @@
           <mxGeometry x="490" y="240" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-28" value="captures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="510" width="60" height="20" as="geometry" />
+          <mxGeometry x="490" y="360" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
