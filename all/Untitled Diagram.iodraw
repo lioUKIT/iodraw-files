@@ -7,8 +7,11 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-1" value="Unstructured Data&lt;br&gt;&lt;br&gt;Social Media&lt;br&gt;Reviews and Comments&lt;br&gt;Text / Images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-2" value="&lt;p data-path-to-node=&quot;5&quot;&gt;&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5&quot;&gt;Structured data&lt;/b&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;5&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Transactions&lt;/span&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;5&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CRM Records&lt;/span&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;5&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System Logs&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
