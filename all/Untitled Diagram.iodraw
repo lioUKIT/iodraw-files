@@ -109,13 +109,8 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-29" value="influences" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="510" y="180" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUjYtrWZfMCw71I_kCS1-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="470" width="50" height="20" as="geometry" />
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="485" y="310" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
