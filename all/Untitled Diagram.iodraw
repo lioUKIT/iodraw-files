@@ -19,7 +19,7 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-5" value="Unstructured Data&lt;br&gt;&lt;br&gt;Social Media&lt;br&gt;Reviews and Comments&lt;br&gt;Text / Images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-6" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5&quot;&gt;Structured data&lt;/b&gt;&lt;br&gt;&lt;br&gt;Transactions&lt;br&gt;&lt;p style=&quot;line-height: 1.2px;&quot; data-path-to-node=&quot;5&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CRM Records&lt;/span&gt;&lt;/p&gt;Text / Images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-6" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5&quot;&gt;Structured data&lt;/b&gt;&lt;br&gt;&lt;br&gt;Transactions&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CRM Records&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System Logs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
