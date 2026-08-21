@@ -13,7 +13,7 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-3" value="&lt;p data-path-to-node=&quot;7&quot;&gt;&lt;b data-path-to-node=&quot;7&quot; data-index-in-node=&quot;0&quot;&gt;Context-aware data&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IoT Sensors&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mobile Data&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Location Information&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-4" value="Data sources (inputs)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontStyle=1;fontSize=16;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-4" value="Data sources (inputs)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontSize=16;fontFamily=Times New Roman;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="60" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-6" value="&lt;b data-path-to-node=&quot;5&quot; data-index-in-node=&quot;0&quot;&gt;Structured data&lt;/b&gt;&lt;br&gt;&lt;br&gt;Transactions&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CRM Records&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System Logs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -110,7 +110,7 @@
           <mxGeometry x="490" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-29" value="influences" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;rotation=45;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="510" y="180" width="60" height="20" as="geometry" />
+          <mxGeometry x="495" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;rotation=-45;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="50" height="20" as="geometry" />
