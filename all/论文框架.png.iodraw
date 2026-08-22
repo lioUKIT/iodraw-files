@@ -112,7 +112,7 @@
         <mxCell id="qYaVrO-OEp5XT89zAGfk-6" value="Theoretical Layers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="410" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qYaVrO-OEp5XT89zAGfk-7" value="Study Details" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="qYaVrO-OEp5XT89zAGfk-7" value="Study Details" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
