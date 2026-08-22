@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qYaVrO-OEp5XT89zAGfk-3" value="Study 5 (Chapter 6)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Contextualized attribute expression&lt;/i&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;1. Analyzes sensory, value, trust, service, and situational attributes&lt;br style=&quot;font-size: 15px;&quot;&gt;2. Binomial GEE and hierarchical Bayesian models&lt;br style=&quot;font-size: 15px;&quot;&gt;3. Explores attribute selection probability&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;4.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Uncovers conditional sentiment governed by platform contexts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="687" y="160" width="140" height="320" as="geometry" />
+          <mxGeometry x="710" y="160" width="140" height="320" as="geometry" />
         </mxCell>
         <mxCell id="qYaVrO-OEp5XT89zAGfk-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="qYaVrO-OEp5XT89zAGfk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
