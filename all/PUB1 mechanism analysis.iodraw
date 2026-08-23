@@ -1,1 +1,64 @@
-<mxfile host="Electron" modified="2025-07-09T14:07:10.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.1.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" etag="pey5IwIf1l4ZIJtl1icp" version="13.3.6"><diagram id="y0eHavvDiBghCURYelIi" name="第 1 页">7Vlbd9M4EP41ecye2I4vfWzTAH0A9lDOLuWFo8iKLbAlrywnDr9+R77EF6mEi1MK9CVHGo1kzfd9npGcmbNKy+cCZfFLHpJkZi/CcuZcz2zbDzz4VYZDbXCdxhAJGtYmqzPc0s+kMS4aa0FDkg8cJeeJpNnQiDljBMuBDQnB90O3LU+GT81QRDTDLUaJbv2XhjKurYHtd/YXhEZx+2TLu6hHUtQ6N5HkMQr5vmdy1jNnJTiXdSstVyRR2LW41POe3TN63JggTH7NBC8t/vvnw8fN4e5NebG4fnV5dePNraBeZoeSoom42a08tBAIXrCQqFUWM+dqH1NJbjOE1egeOAdbLNMEehY0tzRJVjzhoprrhC4JwiXYcyn4J9IbCeyN43kw0myACEnKe0OzjoCB0AhPiRQHcCmHYmk01iK+7wjzF40t7pHluI0RNSKJjit3OEKjgfJbYNVQBaLzfH7FRUjEzPYS2MLVRrUi1VrPVzxNiQBQp0R/G2CCsQn9TeAu3cU06C9H6Ac6/JZtgN87F/q2hv4lJBdcJLIQSM1elxkXclKoiQVS901QX3i+gyYS+jJ4bFg7GtavkKScVTi/gA3M3xIcQ/s9Z5DHJ80tiARbo7o9HJDNdhrI7RHklvezIXc1yBXEDMKPKK5wv2FbgQCVAoPiiZ5u5pfhDjEMuEM1Pc5V9GierzNJU6jKyjUvsixR0OAYUaaTCXuHskweKZHOkMelgcbAQGNwLho9jcbnHAJkqYrHXtwWm5yGZlLeohI8BAmBYHjXDB7PKAOCaaUGlOc0l4rvX4yxcWUxUGab6vrZKPM1ym4Y4ztUk7BATL0layYFySBGUog8ppmBnWsaUVlxc+Lt66/VkAmM76ikhlz6uMlc+qfJtB6STP3kqy4vAshk0Y/VqUmSlTss9Iaq4xvQss92otWPtLoAWXiprlzQw4nKOniICympfKcg/Mttene9keuyQbfqHNoOvAGH3iTVveuPddOqXjuv3hwJtdvdiAEIgBcCk9P1ViIREfkFP8fMaI8x18BYaxMkAenthts10dg84W9OqzrRCmZ8MrRGSqjDbGb1r4mjhZbOPeeddqEaB22hSlXHsH9AaPrp/UGENqFgvCfBPKRg9CvIn5KZ/CehPaTQ9BP7dwvN6smsE90poQ1k1qnu/EJrv7yeEpr9JLQphKbfM361Evh7ZBxndAF1xgt9txCg2335r927v0+c9f8=</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
+  <diagram id="y0eHavvDiBghCURYelIi" name="第 1 页">
+    <mxGraphModel dx="786" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6muqV_jbyYRx90DNABI6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="700" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-1" value="Cross-Border&lt;br&gt;E-Commerce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-2" value="Agricultural Export" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-3" value="National High-Tech Zones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-5" value="Technological Infrastructure&lt;br&gt;-Advanced technologies&lt;br&gt;-Optimized supply chains" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-6" value="Government Subsidies&lt;br&gt;-Tax reduction&lt;br&gt;-Financial assistance" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-7" value="Innovation and Entrepreneurship&lt;br&gt;-Digital technologies&lt;br&gt;-Entrepreneurial activities" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="40" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-8" value="Moderating" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6muqV_jbyYRx90DNABI6-5" target="6muqV_jbyYRx90DNABI6-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6muqV_jbyYRx90DNABI6-6" target="6muqV_jbyYRx90DNABI6-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6muqV_jbyYRx90DNABI6-7" target="6muqV_jbyYRx90DNABI6-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6muqV_jbyYRx90DNABI6-1" target="6muqV_jbyYRx90DNABI6-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6muqV_jbyYRx90DNABI6-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6muqV_jbyYRx90DNABI6-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="340" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
