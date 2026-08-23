@@ -91,10 +91,10 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-23" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-24" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;fillColor=#f5f5f5;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-24" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="240" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-25" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;fillColor=#f5f5f5;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-25" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="360" width="62.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-26" value="infers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-27" value="predicts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-28" value="captures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-28" value="captures" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-29" value="influences" style="rounded=0;whiteSpace=wrap;html=1;rotation=45;" parent="1" vertex="1">
