@@ -10,7 +10,7 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-3" value="&lt;p data-path-to-node=&quot;7&quot;&gt;&lt;b data-path-to-node=&quot;7&quot; data-index-in-node=&quot;0&quot;&gt;Context-aware data&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IoT Sensors&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mobile Data&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Location Information&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="340" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-4" value="Data sources (inputs)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-4" value="Data sources (inputs)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="12.5" y="60" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-6" value="&lt;b data-path-to-node=&quot;5&quot; data-index-in-node=&quot;0&quot;&gt;Structured data&lt;/b&gt;&lt;br&gt;&lt;br&gt;Transactions&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CRM Records&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System Logs&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-8" value="&lt;p data-path-to-node=&quot;15&quot;&gt;&lt;b data-path-to-node=&quot;15&quot; data-index-in-node=&quot;0&quot;&gt;Cluster 3: Context-aware real-time sensing&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Spatial Analysis&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Rule-based Systems&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Real-time Processing&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="290" y="340" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-9" value="Analytical methodologies (process)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-9" value="Analytical methodologies (process)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="60" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-10" value="&lt;p data-path-to-node=&quot;13&quot;&gt;&lt;b data-path-to-node=&quot;13&quot; data-index-in-node=&quot;0&quot;&gt;Cluster 1: Transaction-based behavior modeling&lt;/b&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Regression Analysis&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Machine Learning&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Deep Learning&lt;/span&gt;&lt;p data-path-to-node=&quot;15&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-23" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;strokeColor=none;fillColor=#f5f5f5;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-23" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-24" value="feeds into" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
