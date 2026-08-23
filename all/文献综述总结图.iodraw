@@ -100,16 +100,16 @@
         <mxCell id="GUjYtrWZfMCw71I_kCS1-26" value="infers" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="120" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-27" value="predicts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-27" value="predicts" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-28" value="captures" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-28" value="captures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUjYtrWZfMCw71I_kCS1-29" value="influences" style="rounded=0;whiteSpace=wrap;html=1;rotation=45;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="495" y="180" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" parent="1" vertex="1">
+        <mxCell id="GUjYtrWZfMCw71I_kCS1-30" value="triggers" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="310" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
