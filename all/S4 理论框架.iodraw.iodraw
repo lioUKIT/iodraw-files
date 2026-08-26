@@ -29,6 +29,9 @@
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-10" value="Evaluative Behaviors" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="30" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="plkLsDJJ9WHbNgJxYbhO-11" value="Strategic Algorithmic Compliance" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
