@@ -35,8 +35,8 @@
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-12" value="Robust Organization of Product Evidence" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="plkLsDJJ9WHbNgJxYbhO-13" value="Evaluative Configurations Extracted by LLM" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="570" y="68.75" width="245" height="50" as="geometry" />
+        <mxCell id="plkLsDJJ9WHbNgJxYbhO-13" value="Evaluative Configurations Extracted by LLM" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="75" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-14" value="Higher Evaluative Decoupling (High star ratings combined with high compliance redundancy)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="220" height="80" as="geometry" />
