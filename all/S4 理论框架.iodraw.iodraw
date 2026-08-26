@@ -20,11 +20,11 @@
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-7" value="Cognitive Processing Modes" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="35" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="plkLsDJJ9WHbNgJxYbhO-8" value="Heuristic Processing (Lower cognitive involvement)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="115" width="140" height="50" as="geometry" />
+        <mxCell id="plkLsDJJ9WHbNgJxYbhO-8" value="Heuristic Processing (Lower cognitive involvement)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-9" value="Systematic Processing (Higher cognitive involvement)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="200" width="130" height="50" as="geometry" />
+          <mxGeometry x="220" y="240" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-10" value="Evaluative Behaviors" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="30" width="150" height="40" as="geometry" />
