@@ -14,7 +14,7 @@
         </UserObject>
         <UserObject label="Community Based Architecture (Example: Amazon.it helpfulness votes)" id="plkLsDJJ9WHbNgJxYbhO-6">
           <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="44" y="230" width="146" height="90" as="geometry" />
+            <mxGeometry x="42" y="240" width="158" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-7" value="Cognitive Processing Modes" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
