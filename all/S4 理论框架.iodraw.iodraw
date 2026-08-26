@@ -9,7 +9,7 @@
         </mxCell>
         <UserObject label="Incentive Based Architecture (Example: JD.com reward points)" id="plkLsDJJ9WHbNgJxYbhO-5">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="44" y="120" width="370" height="40" as="geometry" />
+            <mxGeometry x="44" y="120" width="176" height="50" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
