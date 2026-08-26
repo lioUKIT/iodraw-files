@@ -5,8 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-4" value="Platform Contexts" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="210" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="40" width="110" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="Incentive Based Architecture (Example: JD.com reward points)" link="Incentive Based Architecture (Example: JD.com reward points)" id="plkLsDJJ9WHbNgJxYbhO-5">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="220" y="320" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
