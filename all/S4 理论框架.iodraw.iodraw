@@ -18,7 +18,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-7" value="Cognitive Processing Modes" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="65" width="210" height="35" as="geometry" />
+          <mxGeometry x="210" y="72.5" width="200" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-8" value="Heuristic Processing (Lower cognitive involvement)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="140" height="80" as="geometry" />
@@ -27,7 +27,7 @@
           <mxGeometry x="220" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-10" value="Evaluative Behaviors" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="70" width="150" height="40" as="geometry" />
+          <mxGeometry x="400" y="80" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-11" value="Strategic Algorithmic Compliance" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="140" height="80" as="geometry" />
