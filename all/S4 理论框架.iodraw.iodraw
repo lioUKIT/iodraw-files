@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-4" value="Platform Contexts" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="47" y="75" width="150" height="30" as="geometry" />
+          <mxGeometry x="47" y="80" width="150" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Incentive Based Architecture (Example: JD.com reward points)" id="plkLsDJJ9WHbNgJxYbhO-5">
           <mxCell style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -36,7 +36,7 @@
           <mxGeometry x="400" y="240" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-13" value="Evaluative Configurations Extracted by LLM" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="575" y="60" width="210" height="60" as="geometry" />
+          <mxGeometry x="570" y="68.75" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-14" value="Higher Evaluative Decoupling (High star ratings combined with high compliance redundancy)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="220" height="80" as="geometry" />
