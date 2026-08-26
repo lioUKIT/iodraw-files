@@ -36,7 +36,10 @@
           <mxGeometry x="380" y="200" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-13" value="Evaluative Configurations Extracted by Large Language Models" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390" width="370" height="40" as="geometry" />
+          <mxGeometry x="580" y="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="plkLsDJJ9WHbNgJxYbhO-14" value="Higher Evaluative Decoupling (High star ratings combined with high compliance redundancy)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="530" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
