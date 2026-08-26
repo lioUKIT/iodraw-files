@@ -35,6 +35,9 @@
         <mxCell id="plkLsDJJ9WHbNgJxYbhO-12" value="Robust Organization of Product Evidence" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="plkLsDJJ9WHbNgJxYbhO-13" value="Evaluative Configurations Extracted by Large Language Models" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="370" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
