@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="s16" style="html=0;endArrow=none;startArrow=none;strokeColor=#0B4C68;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="145" as="sourcePoint" />
+            <mxPoint x="163" y="120" as="sourcePoint" />
             <mxPoint x="170" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
